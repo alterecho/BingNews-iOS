@@ -9,8 +9,34 @@
 import SwiftUI
 
 struct ContentView: View {
+    let names = [
+        "he1", "ll2", "o3"
+    ]
+    
+    let tableData: [String]
+    
+    init() {
+        if let url = Bundle.main.url(forResource: "names", withExtension: "json"),
+            let data = try? Data(contentsOf: url),
+            let json = try? JSONSerialization.jsonObject(with: data, options: .allowFragments) as? [String : Any],
+            let array = json["names"] as? [String] {
+            tableData = array
+        } else {
+            tableData = names
+        }
+    }
+    
     var body: some View {
-        Text("Hello, World!")
+        NavigationView {
+//            Text("Hello")
+                
+                
+            List (tableData, id: \.self) { dat in
+                Text(dat)
+            }
+                
+            .navigationBarTitle(Text("News"))
+        }
     }
 }
 
