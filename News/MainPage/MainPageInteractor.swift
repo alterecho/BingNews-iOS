@@ -8,7 +8,16 @@
 
 import Foundation
 
-class MainPageInteractor: MainPageUseCase {
+protocol MainPageInteractorInput: MainPageUseCase {
+    func start()
+}
+
+class MainPageInteractor: MainPageInteractorInput {
+    
+    func start() {
+        
+    }
+    
     func displayLatest() {
         
     }

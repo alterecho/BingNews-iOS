@@ -8,9 +8,13 @@
 
 import Foundation
 
-protocol MainPagePresenterProtocol {
+protocol MainPagePresenterInput {
     func showCategories()
     func displayNewsList()
+}
+
+protocol MainPagePresenterOutut {
+    
 }
 
 class MainPagePresenter {

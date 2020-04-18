@@ -9,6 +9,9 @@
 import SwiftUI
 
 struct MainPageContentView: View {
+    
+    let interarctor: MainPageInteractorInput
+    
     var body: some View {
         Text("Hello")
     }

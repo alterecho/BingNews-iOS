@@ -9,11 +9,16 @@
 import Foundation
 
 protocol MainPageAPIWorkerProtocol {
-    func fetchLatest()
+    func fetchLatest(category: Category)
+    func search(string: String)
 }
 
 class MainPageAPIWorker: MainPageAPIWorkerProtocol {
-    func fetchLatest() {
+    func fetchLatest(category: Category) {
+        
+    }
+    
+    func search(string: String) {
         
     }
 }
