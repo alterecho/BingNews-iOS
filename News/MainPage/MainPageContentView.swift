@@ -14,5 +14,8 @@ struct MainPageContentView: View {
     
     var body: some View {
         Text("Hello")
+            .onAppear {
+                self.interarctor.start()
+        }
     }
 }

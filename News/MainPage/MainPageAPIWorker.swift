@@ -15,7 +15,30 @@ protocol MainPageAPIWorkerProtocol {
 
 class MainPageAPIWorker: MainPageAPIWorkerProtocol {
     func fetchLatest(category: Category) {
+        guard let url = URL(string: URLs.NYT.base + URLs.NYT.topStories()) else {
+            return
+        }
         
+        var request = URLRequest(url: url)
+        let dataTask = URLSession.shared.dataTask(with: request) { data, response, error in
+            
+            guard let data = data else {
+                return
+            }
+            
+            if let error = error {
+                return
+            }
+            
+            let decoder = JSONDecoder()
+            do {
+                let result = try decoder.decode(NYTResult.self, from: data)
+                print(result.results)
+            } catch {
+                print(error)
+            }
+        }
+        dataTask.resume()
     }
     
     func search(string: String) {

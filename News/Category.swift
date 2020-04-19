@@ -9,7 +9,7 @@
 import Foundation
 
 
-enum Categories: String {
+enum Category: String {
     case arts, automobiles, books, business, fashion, food, health
     case home, insider, magazine, movies, nyregion, obituaries, opinion
     case politics, realestate, science, sports, sundayreview, technology

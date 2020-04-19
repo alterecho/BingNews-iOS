@@ -9,10 +9,8 @@
 import Foundation
 
 enum MainPageModels {
-    struct NewsItem {
-        let title: String
-        let content: String
-        let url: URL?
-        let imageURL: URL?
+    
+    struct ViewModel {
+        let newsItems: [NewsItem]
     }
 }

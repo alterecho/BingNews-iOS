@@ -14,11 +14,21 @@ protocol MainPageInteractorInput: MainPageUseCase {
 
 class MainPageInteractor: MainPageInteractorInput {
     
+    
+    let apiWorker = MainPageAPIWorker()
+    
     func start() {
+        apiWorker.fetchLatest(category: .home)
+    }
+    
+    func selected(category: Category) {
         
     }
+
     
     func displayLatest() {
         
     }
+    
+    
 }

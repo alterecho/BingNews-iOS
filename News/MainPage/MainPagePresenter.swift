@@ -14,7 +14,7 @@ protocol MainPagePresenterInput {
 }
 
 protocol MainPagePresenterOutut {
-    
+//    func display(viewMo)
 }
 
 class MainPagePresenter {

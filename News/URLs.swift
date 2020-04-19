@@ -16,8 +16,8 @@ extension URLs {
     enum NYT {
         static let base = "https://api.nytimes.com/svc/"
         
-        static func topStories(key: String) -> String {
-            return "topstories/v2/arts.json?api-key=\(key)"
+        static func topStories() -> String {
+            return "topstories/v2/arts.json?api-key=\(Config.key)"
         }
     }    
 }
