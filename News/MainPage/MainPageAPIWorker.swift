@@ -27,23 +27,19 @@ class MainPageAPIWorker: MainPageAPIWorkerProtocol {
     func fetchLatest(category: Category) -> Future<NYTResult, Error> {
         
         return Future<NYTResult, Error> { [weak self] promise in
-            
             self?.cancellable?.cancel()
-            
             let urlString = URLs.NYT.base + URLs.NYT.topStories()
             guard let url = URL(string: urlString) else {
                 promise(.failure(.invalidURL(urlString)))
                 return
             }
-            
             let request = URLRequest(url: url)
-
             self?.cancellable = URLSession.shared.dataTaskPublisher(for: request).tryMap { output throws -> Data in
                 if let response = output.response as? HTTPURLResponse, response.statusCode != 200 {
                     throw Error.invalidResponse(response.statusCode)
                 }
                 return output.data
-            }.decode(type: NYTResult.self, decoder: JSONDecoder())//.eraseToAnyPublisher()
+            }.decode(type: NYTResult.self, decoder: JSONDecoder()).eraseToAnyPublisher()
             .sink(receiveCompletion: { (completion) in
                 switch completion {
                 case .finished:
@@ -54,7 +50,6 @@ class MainPageAPIWorker: MainPageAPIWorkerProtocol {
                     } else {
                         promise(.failure(.common(error.localizedDescription)))
                     }
-                    
                 }
             }) { (result) in
                 promise(.success(result))

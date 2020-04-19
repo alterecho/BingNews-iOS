@@ -13,9 +13,21 @@ struct MainPageContentView: View {
     let interarctor: MainPageInteractorInput
     
     var body: some View {
-        Text("Hello")
-            .onAppear {
-                self.interarctor.start()
+        VStack {
+            Text("Hello")
+                .onAppear {
+                    self.interarctor.start()
+            }
+            
+            Button(action: {
+                self.interarctor.displayLatest()
+            }) {
+                HStack {
+                    Image(systemName: "repeat")
+                    Text("Refresh")
+                }
+            }
+
         }
     }
 }
