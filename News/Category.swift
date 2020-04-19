@@ -14,4 +14,5 @@ enum Category: String {
     case home, insider, magazine, movies, nyregion, obituaries, opinion
     case politics, realestate, science, sports, sundayreview, technology
     case theater, tmagazine, travel, upshot, us, world
+    case miscelleneous
 }

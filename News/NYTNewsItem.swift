@@ -8,14 +8,28 @@
 
 import Foundation
 
-protocol NewsItem {
-    var title: String { get }
-    var content: String { get }
-    var url: URL? { get }
-    var imageURL: URL? { get }
+struct NewsItem {
+    var title: String
+    var content: String
+    var url: URL?
+    var imageURL: URL?
+    var category: Category
 }
 
-struct NYTResult: Decodable {
+protocol NewsItemConvertible {
+    func toNewsItem() -> NewsItem
+}
+
+protocol NewsItemsConvertible {
+    func toNewsItems() -> [NewsItem]
+}
+
+
+struct NYTResult: Decodable, NewsItemsConvertible {
+    func toNewsItems() -> [NewsItem] {
+        return results.map { $0.toNewsItem() }
+    }
+    
     var status: String?
     var copyright: String?
     var section: String?
@@ -23,16 +37,28 @@ struct NYTResult: Decodable {
     var num_results: Int?
     var results: [Article]
     
-    struct Article: Decodable {
+    struct Article: Decodable, NewsItemConvertible {
+        func toNewsItem() -> NewsItem {
+            let imageURL = URL(string: mutlimedia?.first?.url ?? "")
+            let newsItem = NewsItem(
+                title: title ?? "",
+                content: "",
+                url: URL(string: url ?? ""),
+                imageURL: imageURL,
+                category: Category(rawValue: section ?? "" ) ?? .miscelleneous
+            )
+            return newsItem
+        }
+        
         let section: String?
         let title: String?
         let abstract: String?
-        let urlString: String?
+        let url: String?
         let byline: String?
         let updated_date: String?
         let created_date: String?
         let published_date: String?
-        let mutlimedia: String?
+        let mutlimedia: [Multimedia]?
         let short_url: String?
         
         struct Multimedia: Decodable {
