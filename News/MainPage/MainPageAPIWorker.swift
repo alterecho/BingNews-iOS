@@ -7,38 +7,60 @@
 //
 
 import Foundation
+import Combine
 
 protocol MainPageAPIWorkerProtocol {
-    func fetchLatest(category: Category)
+    func fetchLatest(category: Category) -> Future<NYTResult, Error>
     func search(string: String)
 }
 
+enum Error: Swift.Error {
+    case invalidResponse(Int?)
+    case invalidURL(String)
+    case common(String)
+}
+
 class MainPageAPIWorker: MainPageAPIWorkerProtocol {
-    func fetchLatest(category: Category) {
-        guard let url = URL(string: URLs.NYT.base + URLs.NYT.topStories()) else {
-            return
+    
+    private var cancellable: Cancellable?
+    
+    func fetchLatest(category: Category) -> Future<NYTResult, Error> {
+        
+        return Future<NYTResult, Error> { [weak self] promise in
+            
+            self?.cancellable?.cancel()
+            
+            let urlString = URLs.NYT.base + URLs.NYT.topStories()
+            guard let url = URL(string: urlString) else {
+                promise(.failure(.invalidURL(urlString)))
+                return
+            }
+            
+            let request = URLRequest(url: url)
+
+            self?.cancellable = URLSession.shared.dataTaskPublisher(for: request).tryMap { output throws -> Data in
+                if let response = output.response as? HTTPURLResponse, response.statusCode != 200 {
+                    throw Error.invalidResponse(response.statusCode)
+                }
+                return output.data
+            }.decode(type: NYTResult.self, decoder: JSONDecoder())//.eraseToAnyPublisher()
+            .sink(receiveCompletion: { (completion) in
+                switch completion {
+                case .finished:
+                    break
+                case .failure(let error):
+                    if let error = error as? Error {
+                        promise(.failure(error))
+                    } else {
+                        promise(.failure(.common(error.localizedDescription)))
+                    }
+                    
+                }
+            }) { (result) in
+                promise(.success(result))
+            }
         }
         
-        var request = URLRequest(url: url)
-        let dataTask = URLSession.shared.dataTask(with: request) { data, response, error in
-            
-            guard let data = data else {
-                return
-            }
-            
-            if let error = error {
-                return
-            }
-            
-            let decoder = JSONDecoder()
-            do {
-                let result = try decoder.decode(NYTResult.self, from: data)
-                print(result.results)
-            } catch {
-                print(error)
-            }
-        }
-        dataTask.resume()
     }
     
     func search(string: String) {

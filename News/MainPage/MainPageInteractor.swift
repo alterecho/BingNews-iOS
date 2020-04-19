@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Combine
 
 protocol MainPageInteractorInput: MainPageUseCase {
     func start()
@@ -18,16 +19,22 @@ class MainPageInteractor: MainPageInteractorInput {
     let apiWorker = MainPageAPIWorker()
     
     func start() {
-        apiWorker.fetchLatest(category: .home)
+        displayLatest()
     }
     
     func selected(category: Category) {
         
     }
 
+    private var cancellable: Cancellable?
     
     func displayLatest() {
-        
+        cancellable = apiWorker.fetchLatest(category: .home).receive(on: DispatchQueue.main).sink(receiveCompletion: { (completion) in
+            print(completion)
+        }) { (result) in
+            print(result)
+        }
+
     }
     
     
