@@ -22,9 +22,10 @@
 		F166C9D3244736A500C84C93 /* MainPagePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9D2244736A500C84C93 /* MainPagePresenter.swift */; };
 		F166C9D52447381900C84C93 /* MainPageContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9D42447381900C84C93 /* MainPageContentView.swift */; };
 		F166C9D824473E9000C84C93 /* Notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = F166C9D724473E9000C84C93 /* Notes.txt */; };
-		F166C9DA2447435D00C84C93 /* Categories.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9D92447435D00C84C93 /* Categories.swift */; };
+		F166C9DA2447435D00C84C93 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9D92447435D00C84C93 /* Category.swift */; };
 		F166C9DC244743B700C84C93 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9DB244743B700C84C93 /* Config.swift */; };
 		F166C9DE24481E2F00C84C93 /* MainPageModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9DD24481E2F00C84C93 /* MainPageModels.swift */; };
+		F166C9F8244C2E6500C84C93 /* NYTNewsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166C9F7244C2E6400C84C93 /* NYTNewsItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,9 +46,10 @@
 		F166C9D2244736A500C84C93 /* MainPagePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPagePresenter.swift; sourceTree = "<group>"; };
 		F166C9D42447381900C84C93 /* MainPageContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageContentView.swift; sourceTree = "<group>"; };
 		F166C9D724473E9000C84C93 /* Notes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Notes.txt; sourceTree = "<group>"; };
-		F166C9D92447435D00C84C93 /* Categories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Categories.swift; sourceTree = "<group>"; };
+		F166C9D92447435D00C84C93 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		F166C9DB244743B700C84C93 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		F166C9DD24481E2F00C84C93 /* MainPageModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageModels.swift; sourceTree = "<group>"; };
+		F166C9F7244C2E6400C84C93 /* NYTNewsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYTNewsItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +89,8 @@
 				F166C9DB244743B700C84C93 /* Config.swift */,
 				F166C9CE2447109100C84C93 /* URLs.swift */,
 				F166C9D0244710BF00C84C93 /* APIs.swift */,
-				F166C9D92447435D00C84C93 /* Categories.swift */,
+				F166C9D92447435D00C84C93 /* Category.swift */,
+				F166C9F7244C2E6400C84C93 /* NYTNewsItem.swift */,
 				F166C9C924470F4500C84C93 /* MainPage */,
 				F166C9C524470BFF00C84C93 /* names.json */,
 				F166C9B72446CFAF00C84C93 /* Assets.xcassets */,
@@ -193,13 +196,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				F166C9CD2447107600C84C93 /* MainPageAPIWorker.swift in Sources */,
+				F166C9F8244C2E6500C84C93 /* NYTNewsItem.swift in Sources */,
 				F166C9B22446CFAB00C84C93 /* AppDelegate.swift in Sources */,
 				F166C9D52447381900C84C93 /* MainPageContentView.swift in Sources */,
 				F166C9D1244710BF00C84C93 /* APIs.swift in Sources */,
 				F166C9D3244736A500C84C93 /* MainPagePresenter.swift in Sources */,
 				F166C9DC244743B700C84C93 /* Config.swift in Sources */,
 				F166C9CB2447103400C84C93 /* MainPageInteractor.swift in Sources */,
-				F166C9DA2447435D00C84C93 /* Categories.swift in Sources */,
+				F166C9DA2447435D00C84C93 /* Category.swift in Sources */,
 				F166C9CF2447109100C84C93 /* URLs.swift in Sources */,
 				F166C9B42446CFAB00C84C93 /* SceneDelegate.swift in Sources */,
 				F166C9B62446CFAB00C84C93 /* ContentView.swift in Sources */,
