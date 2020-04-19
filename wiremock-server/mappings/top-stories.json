@@ -1,0 +1,18 @@
+{
+    "mappings": [
+        {
+            "request": {
+                "method": "GET",
+                "urlPattern": "/svc/topstories/v2/([a-zA-Z0-9.-?=]*)"
+            },
+            "response": {
+                "status": 200,
+                "fixedDelayMilliseconds": 1500,
+                "bodyFileName": "topstories-home.json",
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+    ]
+}

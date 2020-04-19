@@ -1,0 +1,4556 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2020-04-18T11:36:13-04:00",
+  "num_results": 56,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Coronavirus Live Updates: Frustrations Over Coronavirus Closings Prompt Protests Across Nation",
+      "abstract": "The Trump administration has continued to deport thousands of people, including children and teenagers who arrived at the border without adult guardians.",
+      "url": "https://www.nytimes.com/2020/04/18/us/coronavirus-updates.html",
+      "uri": "nyt://article/e0aef3dd-d5f8-5b97-b65f-7338c234225d",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:27:31-04:00",
+      "created_date": "2020-04-18T05:09:29-04:00",
+      "published_date": "2020-04-18T05:09:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cuomo, Andrew M",
+        "Fauci, Anthony S",
+        "Abbott, Gregory W (1957- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Texas",
+        "California",
+        "Austin (Tex)",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-superJumbo-v297.png",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbStandard-v303.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbLarge-v303.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-mediumThreeByTwo210-v303.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-articleInline-v297.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2xHNgZR"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Coronavirus Testing Needs to Triple Before the U.S. Can Reopen, Experts Say",
+      "abstract": "As some governors look to ease coronavirus restrictions, public health experts say the country needs at least half a million tests per day to safely reopen.",
+      "url": "https://www.nytimes.com/interactive/2020/04/17/us/coronavirus-testing-states.html",
+      "uri": "nyt://interactive/be8af8e8-f65c-53eb-a878-baa9524b3eca",
+      "byline": "By Keith Collins",
+      "item_type": "Interactive",
+      "updated_date": "2020-04-18T09:43:48-04:00",
+      "created_date": "2020-04-17T23:35:55-04:00",
+      "published_date": "2020-04-17T23:35:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/coronavirus-testing-states-promo-1587163422882/coronavirus-testing-states-promo-1587163422882-superJumbo-v4.png",
+          "format": "superJumbo",
+          "height": 1331,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/coronavirus-testing-states-promo-1587163422882/coronavirus-testing-states-promo-1587163422882-thumbStandard-v4.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/coronavirus-testing-states-promo-1587163422882/coronavirus-testing-states-promo-1587163422882-thumbLarge-v4.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/coronavirus-testing-states-promo-1587163422882/coronavirus-testing-states-promo-1587163422882-mediumThreeByTwo210-v4.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/coronavirus-testing-states-promo-1587163422882/coronavirus-testing-states-promo-1587163422882-articleInline-v4.png",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2VySMpw"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Encourages Protest Against Governors Who Have Imposed Virus Restrictions",
+      "abstract": "The president’s stark departure from his message on Thursday night, when he announced guidelines for governors to reopen their states and said they would “call your own shots,” suggested he was ceding any semblance of national leadership on the pandemic.",
+      "url": "https://www.nytimes.com/2020/04/17/us/politics/trump-coronavirus-governors.html",
+      "uri": "nyt://article/e4fbd4af-c9d0-56e0-a234-eb8b7961e6e0",
+      "byline": "By Michael D. Shear and Sarah Mervosh",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:13:37-04:00",
+      "created_date": "2020-04-17T19:29:36-04:00",
+      "published_date": "2020-04-17T19:29:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Federal-State Relations (US)",
+        "Shutdowns (Institutional)",
+        "Demonstrations, Protests and Riots"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "Democratic Party",
+        "Republican Party",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Cuomo, Andrew M",
+        "DeWine, Mike"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/17dc-virus-trump2/merlin_171658596_905148e9-4963-498f-a9d7-8e49290bd3b7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump used Twitter on Friday to call on states to “LIBERATE” their citizens from social distancing guidelines.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/17dc-virus-trump2/17dc-virus-trump2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump used Twitter on Friday to call on states to “LIBERATE” their citizens from social distancing guidelines.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/17dc-virus-trump2/17dc-virus-trump2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump used Twitter on Friday to call on states to “LIBERATE” their citizens from social distancing guidelines.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/17dc-virus-trump2/merlin_171658596_905148e9-4963-498f-a9d7-8e49290bd3b7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump used Twitter on Friday to call on states to “LIBERATE” their citizens from social distancing guidelines.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/17dc-virus-trump2/merlin_171658596_905148e9-4963-498f-a9d7-8e49290bd3b7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump used Twitter on Friday to call on states to “LIBERATE” their citizens from social distancing guidelines.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ai5yhx"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Watch Now: Cuomo Giving Live Coronavirus Updates",
+      "abstract": "Masks became mandatory in New York on Friday night in public settings where social distancing is not possible.",
+      "url": "https://www.nytimes.com/2020/04/18/nyregion/coronavirus-new-york-update.html",
+      "uri": "nyt://article/a07df1a8-fd7b-566e-bfa8-01a64b7fadff",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:35:34-04:00",
+      "created_date": "2020-04-18T08:33:19-04:00",
+      "published_date": "2020-04-18T08:33:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York State",
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/nyregion/19nyvirus-briefingvideostill/merlin_171618288_26ba4e4e-554d-4079-b81c-67e51b4aedba-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/nyregion/19nyvirus-briefingvideostill/19nyvirus-briefingvideostill-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/nyregion/19nyvirus-briefingvideostill/19nyvirus-briefingvideostill-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/nyregion/19nyvirus-briefingvideostill/19nyvirus-briefingvideostill-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/nyregion/19nyvirus-briefingvideostill/merlin_171618288_26ba4e4e-554d-4079-b81c-67e51b4aedba-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cindy Schultz for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VGQEMj"
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "In Italy, a Sharp Drop in Coronavirus I.C.U. Patients; Tehran’s Lockdown Lifts: Live Coverage",
+      "abstract": "Hong Kong arrests pro-Democracy figures even as it fights the virus.  Canada’s nursing homes are hard-hit. Pockets of people reluctant to take a coronavirus vaccine are emerging.",
+      "url": "https://www.nytimes.com/2020/04/18/world/coronavirus-cases-tracker.html",
+      "uri": "nyt://article/d85c70f0-775a-5640-b9c8-62d73bc5ba25",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:20:56-04:00",
+      "created_date": "2020-04-18T00:01:31-04:00",
+      "published_date": "2020-04-18T00:01:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-int-briefing-italy/merlin_171156099_98cbd7e9-8a77-403f-ad49-25792e12d126-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hospital ward was converted into an intensive care unit to treat coronavirus patients in Bergamo, Italy, last month.",
+          "copyright": "Fabio Bucciarelli for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-int-briefing-italy/merlin_171156099_98cbd7e9-8a77-403f-ad49-25792e12d126-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hospital ward was converted into an intensive care unit to treat coronavirus patients in Bergamo, Italy, last month.",
+          "copyright": "Fabio Bucciarelli for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-int-briefing-italy/merlin_171156099_98cbd7e9-8a77-403f-ad49-25792e12d126-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hospital ward was converted into an intensive care unit to treat coronavirus patients in Bergamo, Italy, last month.",
+          "copyright": "Fabio Bucciarelli for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-int-briefing-italy/merlin_171156099_98cbd7e9-8a77-403f-ad49-25792e12d126-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hospital ward was converted into an intensive care unit to treat coronavirus patients in Bergamo, Italy, last month.",
+          "copyright": "Fabio Bucciarelli for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-int-briefing-italy/merlin_171156099_98cbd7e9-8a77-403f-ad49-25792e12d126-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hospital ward was converted into an intensive care unit to treat coronavirus patients in Bergamo, Italy, last month.",
+          "copyright": "Fabio Bucciarelli for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Kl3I4J"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "How Millions of Women Became the Most Essential Workers in America",
+      "abstract": "One in three jobs held by women has been designated as essential.",
+      "url": "https://www.nytimes.com/2020/04/18/us/coronavirus-women-essential-workers.html",
+      "uri": "nyt://article/5bff6642-facb-5c03-ac95-23bbd1e076b8",
+      "byline": "By Campbell Robertson and Robert Gebeloff",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:23:04-04:00",
+      "created_date": "2020-04-18T05:00:16-04:00",
+      "published_date": "2020-04-18T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Labor and Jobs",
+        "Coronavirus (2019-nCoV)",
+        "Quarantines",
+        "Wages and Salaries",
+        "Women and Girls",
+        "Home Health Care",
+        "Epidemics",
+        "Nursing and Nurses"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19virus-women02/merlin_171582087_fd987492-3942-4892-b7a3-1ed1c0760421-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Constance Warren is still working at a grocery store in New Orleans, a city where nearly 250 have died of the virus.",
+          "copyright": "Annie Flanagan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19virus-women02/merlin_171582087_fd987492-3942-4892-b7a3-1ed1c0760421-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Constance Warren is still working at a grocery store in New Orleans, a city where nearly 250 have died of the virus.",
+          "copyright": "Annie Flanagan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19virus-women02/merlin_171582087_fd987492-3942-4892-b7a3-1ed1c0760421-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Constance Warren is still working at a grocery store in New Orleans, a city where nearly 250 have died of the virus.",
+          "copyright": "Annie Flanagan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19virus-women02/merlin_171582087_fd987492-3942-4892-b7a3-1ed1c0760421-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Constance Warren is still working at a grocery store in New Orleans, a city where nearly 250 have died of the virus.",
+          "copyright": "Annie Flanagan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19virus-women02/merlin_171582087_fd987492-3942-4892-b7a3-1ed1c0760421-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Constance Warren is still working at a grocery store in New Orleans, a city where nearly 250 have died of the virus.",
+          "copyright": "Annie Flanagan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2xuWTes"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "The Food Chain’s Weakest Link: Slaughterhouses",
+      "abstract": "A relatively small number of plants process much of the beef and pork in the United States, and some of them have closed because workers are getting sick.",
+      "url": "https://www.nytimes.com/2020/04/18/business/coronavirus-meat-slaughterhouses.html",
+      "uri": "nyt://article/4bc63ded-9201-5b9f-adfd-61100b21a5a6",
+      "byline": "By Michael Corkery and David Yaffe-Bellany",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:18-04:00",
+      "created_date": "2020-04-18T10:38:00-04:00",
+      "published_date": "2020-04-18T10:38:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Slaughterhouses",
+        "Meat",
+        "Pork"
+      ],
+      "org_facet": [
+        "Smithfield Foods Inc",
+        "JBS SA",
+        "Tyson Foods Inc"
+      ],
+      "per_facet": [
+        "Noem, Kristi"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19virus-meat/merlin_171691854_0685342c-161d-4eb5-a007-78beef4b877c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Smithfield Foods plant in 2017. &ldquo;Slaughterhouses are a critical bottleneck in the system,&rdquo; a professor who studies supply chains said.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19virus-meat/18virus-meat-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Smithfield Foods plant in 2017. &ldquo;Slaughterhouses are a critical bottleneck in the system,&rdquo; a professor who studies supply chains said.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19virus-meat/18virus-meat-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Smithfield Foods plant in 2017. &ldquo;Slaughterhouses are a critical bottleneck in the system,&rdquo; a professor who studies supply chains said.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19virus-meat/18virus-meat-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Smithfield Foods plant in 2017. &ldquo;Slaughterhouses are a critical bottleneck in the system,&rdquo; a professor who studies supply chains said.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19virus-meat/18virus-meat-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Smithfield Foods plant in 2017. &ldquo;Slaughterhouses are a critical bottleneck in the system,&rdquo; a professor who studies supply chains said.",
+          "copyright": "Daniel Acker/Bloomberg"
+        }
+      ],
+      "short_url": "https://nyti.ms/2xEq7r9"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "6 Lives Stolen on New York City’s 2 Deadliest Days",
+      "abstract": "A grocer, a nurse and a church deacon were among the 1,550 New Yorkers who died in the coronavirus outbreak’s bleakest span so far.",
+      "url": "https://www.nytimes.com/2020/04/18/nyregion/coronavirus-deaths-nyc.html",
+      "uri": "nyt://article/a3380ede-8dcf-50df-b3f4-6ff041802613",
+      "byline": "By Somini Sengupta and Andrea Salcedo",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:21-04:00",
+      "created_date": "2020-04-18T05:00:24-04:00",
+      "published_date": "2020-04-18T05:00:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Epidemics"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Yaw A. Asante",
+        "Alberto Sevilla",
+        "Levester Thompson Jr.",
+        "Mehmooda Rehman",
+        "Roberto Tejada",
+        "Ruth Mazyck Corbett"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/nyregion/00nyvirus-loss-promo/00nyvirus-loss-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/nyregion/00nyvirus-loss-promo/00nyvirus-loss-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/nyregion/00nyvirus-loss-promo/00nyvirus-loss-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/nyregion/00nyvirus-loss-promo/00nyvirus-loss-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/nyregion/00nyvirus-loss-promo/00nyvirus-loss-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34JYeKm"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "After Virus Delays, Census Must Scramble to Avoid Undercount",
+      "abstract": "Slammed by a pandemic, the Census Bureau postponed crucial portions of the count for the third time in a month, further raising the bar for an accurate count.",
+      "url": "https://www.nytimes.com/2020/04/18/us/coronavirus-census.html",
+      "uri": "nyt://article/c9a88ce1-bdea-5dc5-a731-c6718a6bcf6e",
+      "byline": "By Michael Wines",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:17-04:00",
+      "created_date": "2020-04-18T10:00:45-04:00",
+      "published_date": "2020-04-18T10:00:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Census",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Census Bureau",
+        "Postal Service (US)"
+      ],
+      "per_facet": [
+        "Prewitt, Kenneth"
+      ],
+      "geo_facet": [
+        "Detroit (Mich)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19VIRUS-CENSUS/merlin_170821071_9242b790-70fd-4396-8b4d-04409de8f2a8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A packet from the U.S. Census Bureau hangs on a door on Whidbey Island, Wash., in late March.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19VIRUS-CENSUS/merlin_170821071_9242b790-70fd-4396-8b4d-04409de8f2a8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A packet from the U.S. Census Bureau hangs on a door on Whidbey Island, Wash., in late March.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19VIRUS-CENSUS/merlin_170821071_9242b790-70fd-4396-8b4d-04409de8f2a8-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A packet from the U.S. Census Bureau hangs on a door on Whidbey Island, Wash., in late March.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19VIRUS-CENSUS/merlin_170821071_9242b790-70fd-4396-8b4d-04409de8f2a8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A packet from the U.S. Census Bureau hangs on a door on Whidbey Island, Wash., in late March.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/19VIRUS-CENSUS/merlin_170821071_9242b790-70fd-4396-8b4d-04409de8f2a8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A packet from the U.S. Census Bureau hangs on a door on Whidbey Island, Wash., in late March.",
+          "copyright": "Brian Snyder/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2KhjlKM"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Bridging Divides, Most Agree on Economic Outlook: It’s Bleak",
+      "abstract": "Even if not directly hurt by the coronavirus pandemic, Americans largely expect unemployment and depression to prevail over the next five years.",
+      "url": "https://www.nytimes.com/2020/04/18/business/economy/coronavirus-economy-survey.html",
+      "uri": "nyt://article/e848557e-49c1-523a-9224-142c04c0c5e7",
+      "byline": "By Ben Casselman and Jim Tankersley",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:18-04:00",
+      "created_date": "2020-04-18T03:00:09-04:00",
+      "published_date": "2020-04-18T03:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Polls and Public Opinion",
+        "Consumer Confidence (Economic Indicator)",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "SurveyMonkey"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/business/18virus-survey2/merlin_171240201_c628e419-603f-4205-90c5-90c12c7c3fa8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Houston on an April weekday. Americans expect hard times to last well beyond the economic shock of the coronavirus pandemic.",
+          "copyright": "Go Nakamura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/business/18virus-survey2/18virus-survey2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Houston on an April weekday. Americans expect hard times to last well beyond the economic shock of the coronavirus pandemic.",
+          "copyright": "Go Nakamura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/business/18virus-survey2/18virus-survey2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Houston on an April weekday. Americans expect hard times to last well beyond the economic shock of the coronavirus pandemic.",
+          "copyright": "Go Nakamura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/business/18virus-survey2/merlin_171240201_c628e419-603f-4205-90c5-90c12c7c3fa8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Houston on an April weekday. Americans expect hard times to last well beyond the economic shock of the coronavirus pandemic.",
+          "copyright": "Go Nakamura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/business/18virus-survey2/merlin_171240201_c628e419-603f-4205-90c5-90c12c7c3fa8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Houston on an April weekday. Americans expect hard times to last well beyond the economic shock of the coronavirus pandemic.",
+          "copyright": "Go Nakamura for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3eziN0v"
+    },
+    {
+      "section": "business",
+      "subsection": "mutfund",
+      "title": "How to Survive the Coronavirus Markets",
+      "abstract": "One of the worst stretches in market history has included one of the most rapid stock rallies. How can investors get through this ordeal?",
+      "url": "https://www.nytimes.com/2020/04/18/business/mutfund/stock-market-investing-tips-coronavirus.html",
+      "uri": "nyt://article/e561d0bd-e76f-5a50-b519-782e8866f357",
+      "byline": "By Jeff Sommer",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:17-04:00",
+      "created_date": "2020-04-18T05:00:05-04:00",
+      "published_date": "2020-04-18T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds",
+        "Coronavirus (2019-nCoV)",
+        "Mutual Funds"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-QUARTER/merlin_171643560_9a3ee17b-eaa7-464e-9f37-7e146ad80e97-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1754,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pablo Delcan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-QUARTER/19MFQ-QUARTER-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pablo Delcan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-QUARTER/19MFQ-QUARTER-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pablo Delcan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-QUARTER/19MFQ-QUARTER-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pablo Delcan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-QUARTER/merlin_171643560_9a3ee17b-eaa7-464e-9f37-7e146ad80e97-articleInline.jpg",
+          "format": "Normal",
+          "height": 222,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pablo Delcan"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RJmNSo"
+    },
+    {
+      "section": "your-money",
+      "subsection": "",
+      "title": "Who Owes You a Refund? Should You Even Ask?",
+      "abstract": "Airlines? For sure. Vrbo? Probably. But what about your child’s summer camp?",
+      "url": "https://www.nytimes.com/2020/04/18/your-money/coronavirus-refunds.html",
+      "uri": "nyt://article/e6f89bb2-06fb-596a-a91e-92b45881f177",
+      "byline": "By Ron Lieber",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:17-04:00",
+      "created_date": "2020-04-18T03:00:07-04:00",
+      "published_date": "2020-04-18T03:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Your Money",
+      "des_facet": [
+        "Personal Finances",
+        "Coronavirus (2019-nCoV)",
+        "Travel and Vacations",
+        "Airlines and Airplanes",
+        "Bankruptcies"
+      ],
+      "org_facet": [
+        "Ticketmaster"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/business/16money/16money-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1390,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert Neubecker"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/business/16money/16money-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert Neubecker"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/business/16money/16money-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert Neubecker"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/business/16money/16money-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert Neubecker"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/business/16money/16money-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert Neubecker"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ctjKFT"
+    },
+    {
+      "section": "world",
+      "subsection": "africa",
+      "title": "10 African Countries Have No Ventilators. That’s Only Part of the Problem.",
+      "abstract": "Basic supplies like oxygen and soap are needed first to slow the spread of the coronavirus.",
+      "url": "https://www.nytimes.com/2020/04/18/world/africa/africa-coronavirus-ventilators.html",
+      "uri": "nyt://article/d0eb7377-ef54-5ea4-acfb-3b95dc291e5d",
+      "byline": "By Ruth Maclean and Simon Marks",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:25-04:00",
+      "created_date": "2020-04-18T05:00:24-04:00",
+      "published_date": "2020-04-18T05:00:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Epidemics",
+        "Ventilators (Medical)",
+        "Ebola Virus"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Africa",
+        "Burkina Faso",
+        "Cameroon",
+        "Ethiopia",
+        "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "Nigeria",
+        "South Sudan",
+        "South Africa"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19VIRUS-AFRICA-VENTILATORS/merlin_171220200_34e44efe-48f7-47e8-bf3d-179cf2f89bb1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Practicing social distancing at a public health awareness demonstration this month in Juba, South Sudan.",
+          "copyright": "Alex Mcbride/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19VIRUS-AFRICA-VENTILATORS/OO-VIRUS-AFRICA-VENTILATORS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Practicing social distancing at a public health awareness demonstration this month in Juba, South Sudan.",
+          "copyright": "Alex Mcbride/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19VIRUS-AFRICA-VENTILATORS/OO-VIRUS-AFRICA-VENTILATORS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Practicing social distancing at a public health awareness demonstration this month in Juba, South Sudan.",
+          "copyright": "Alex Mcbride/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19VIRUS-AFRICA-VENTILATORS/merlin_171220200_34e44efe-48f7-47e8-bf3d-179cf2f89bb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Practicing social distancing at a public health awareness demonstration this month in Juba, South Sudan.",
+          "copyright": "Alex Mcbride/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19VIRUS-AFRICA-VENTILATORS/merlin_171220200_34e44efe-48f7-47e8-bf3d-179cf2f89bb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Practicing social distancing at a public health awareness demonstration this month in Juba, South Sudan.",
+          "copyright": "Alex Mcbride/Agence France-Presse &mdash; Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2xEkqJQ"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "In Spain, a Call to ‘Free Our Children’ From Coronavirus Confinement",
+      "abstract": "The strictest lockdown measures in Europe have left countless children bored, exhausted and sometimes depressed.",
+      "url": "https://www.nytimes.com/2020/04/18/world/europe/spain-children-lockdown-coronavirus.html",
+      "uri": "nyt://article/af9eb11f-7b07-56a7-a7f0-c085deb0cd24",
+      "byline": "By Elian Peltier and Raphael Minder",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:22-04:00",
+      "created_date": "2020-04-18T05:00:17-04:00",
+      "published_date": "2020-04-18T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Psychology and Psychologists",
+        "Children and Childhood",
+        "Mental Health and Disorders",
+        "Quarantines",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19virus-spain1/merlin_171676236_b23923cc-131c-45df-9426-f8facf8bc9d0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mafus Rohman and his wife, Samina, live in a two-bedroom apartment in Barcelona with a cousin and their 5-year-old twins, Misha and Maliha.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19virus-spain1/merlin_171676236_b23923cc-131c-45df-9426-f8facf8bc9d0-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mafus Rohman and his wife, Samina, live in a two-bedroom apartment in Barcelona with a cousin and their 5-year-old twins, Misha and Maliha.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19virus-spain1/merlin_171676236_b23923cc-131c-45df-9426-f8facf8bc9d0-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mafus Rohman and his wife, Samina, live in a two-bedroom apartment in Barcelona with a cousin and their 5-year-old twins, Misha and Maliha.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19virus-spain1/merlin_171676236_b23923cc-131c-45df-9426-f8facf8bc9d0-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mafus Rohman and his wife, Samina, live in a two-bedroom apartment in Barcelona with a cousin and their 5-year-old twins, Misha and Maliha.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/world/19virus-spain1/merlin_171676236_b23923cc-131c-45df-9426-f8facf8bc9d0-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mafus Rohman and his wife, Samina, live in a two-bedroom apartment in Barcelona with a cousin and their 5-year-old twins, Misha and Maliha.",
+          "copyright": "Samuel Aranda for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XLnXR2"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Gretchen Whitmer Isn’t Backing Down",
+      "abstract": "Right-wing protesters, Republican lawmakers and President Trump are attacking the Michigan governor, a possible vice-presidential pick. “I’m not thinking about politics,” she says.",
+      "url": "https://www.nytimes.com/2020/04/18/us/politics/gretchen-whitmer-michigan-protests.html",
+      "uri": "nyt://article/b52cfcc5-b56b-5b99-b0d3-2d08c1163224",
+      "byline": "By Trip Gabriel and Jonathan Martin",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:00:27-04:00",
+      "created_date": "2020-04-18T05:00:22-04:00",
+      "published_date": "2020-04-18T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "Politics and Government",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Whitmer, Gretchen",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Michigan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/politics/18whitmer-sub/merlin_168069297_685bd743-e4b0-4f23-9398-8cfa04509db5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1524,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Gretchen Whitmer of Michigan has imposed some of the country’s most severe stay-at-home restrictions.",
+          "copyright": "Al Goldis/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/politics/18whitmer-sub/18whitmer-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Gretchen Whitmer of Michigan has imposed some of the country’s most severe stay-at-home restrictions.",
+          "copyright": "Al Goldis/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/politics/18whitmer-sub/18whitmer-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Gretchen Whitmer of Michigan has imposed some of the country’s most severe stay-at-home restrictions.",
+          "copyright": "Al Goldis/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/politics/18whitmer-sub/18whitmer-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Gretchen Whitmer of Michigan has imposed some of the country’s most severe stay-at-home restrictions.",
+          "copyright": "Al Goldis/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/politics/18whitmer-sub/merlin_168069297_685bd743-e4b0-4f23-9398-8cfa04509db5-articleInline.jpg",
+          "format": "Normal",
+          "height": 141,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Gretchen Whitmer of Michigan has imposed some of the country’s most severe stay-at-home restrictions.",
+          "copyright": "Al Goldis/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VwJx9a"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Vote for Biden? Sanders Supporters Say It’s ‘Up in the Air’",
+      "abstract": "In interviews, some of Bernie Sanders’s primary voters saw Joe Biden as a weaker candidate than Hillary Clinton. Others didn’t think he could win. Nearly all were unenthusiastic.",
+      "url": "https://www.nytimes.com/2020/04/18/us/politics/bernie-sanders-voters-biden.html",
+      "uri": "nyt://article/ca6cef37-1808-54ce-bbdb-a95da418f9d7",
+      "byline": "By Trip Gabriel",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:23-04:00",
+      "created_date": "2020-04-18T05:00:22-04:00",
+      "published_date": "2020-04-18T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voting and Voters",
+        "Primaries and Caucuses",
+        "Third-Party Politics (US)"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Sanders, Bernard",
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00sanders-voters-Shippee/00sanders-voters-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Shippee, who lives in Milwaukee and supported Senator Bernie Sanders, is reluctant to vote for Joseph R. Biden Jr. “What it feels like is the Democratic Party relies on guilting progressives into voting for them,” she said.",
+          "copyright": "via Mary Shippee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00sanders-voters-Shippee/00sanders-voters-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Shippee, who lives in Milwaukee and supported Senator Bernie Sanders, is reluctant to vote for Joseph R. Biden Jr. “What it feels like is the Democratic Party relies on guilting progressives into voting for them,” she said.",
+          "copyright": "via Mary Shippee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00sanders-voters-Shippee/00sanders-voters-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Shippee, who lives in Milwaukee and supported Senator Bernie Sanders, is reluctant to vote for Joseph R. Biden Jr. “What it feels like is the Democratic Party relies on guilting progressives into voting for them,” she said.",
+          "copyright": "via Mary Shippee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00sanders-voters-Shippee/00sanders-voters-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Shippee, who lives in Milwaukee and supported Senator Bernie Sanders, is reluctant to vote for Joseph R. Biden Jr. “What it feels like is the Democratic Party relies on guilting progressives into voting for them,” she said.",
+          "copyright": "via Mary Shippee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00sanders-voters-Shippee/00sanders-voters-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Shippee, who lives in Milwaukee and supported Senator Bernie Sanders, is reluctant to vote for Joseph R. Biden Jr. “What it feels like is the Democratic Party relies on guilting progressives into voting for them,” she said.",
+          "copyright": "via Mary Shippee"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ez4yJ0"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "11 of Our Best Weekend Reads",
+      "abstract": "A mom’s last words to her daughter. What a wedding dress means. How New Yorkers talk. 52 Places, virtually. And more.",
+      "url": "https://www.nytimes.com/2020/04/17/arts/11-of-our-best-weekend-reads.html",
+      "uri": "nyt://article/eeb333bb-001a-51d3-a7e6-92573bba7ee4",
+      "byline": "By Kaly Soto",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:51:23-04:00",
+      "created_date": "2020-04-17T10:10:50-04:00",
+      "published_date": "2020-04-17T10:10:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantines",
+        "Emergency Medical Treatment"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Li Wenliang"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/multimedia/18weekendreads-promo/18weekendreads-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1334,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/multimedia/18weekendreads-promo/18weekendreads-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/multimedia/18weekendreads-promo/18weekendreads-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/multimedia/18weekendreads-promo/18weekendreads-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/multimedia/18weekendreads-promo/18weekendreads-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2VFQ0it"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "News Quiz: Coronavirus, World Health Organization, Joe Biden",
+      "abstract": "Did you follow the headlines this week?",
+      "url": "https://www.nytimes.com/interactive/2020/04/17/briefing/coronavirus-world-health-organization-joe-biden-news-quiz.html",
+      "uri": "nyt://interactive/3888baf0-4a78-5684-8038-891a74065ec1",
+      "byline": "Compiled by Chris Stanford, Will Dudding and Anna Schaverien",
+      "item_type": "Interactive",
+      "updated_date": "2020-04-18T10:51:24-04:00",
+      "created_date": "2020-04-17T03:30:07-04:00",
+      "published_date": "2020-04-17T03:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump made the announcement during the coronavirus task force briefing on Tuesday at the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump made the announcement during the coronavirus task force briefing on Tuesday at the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump made the announcement during the coronavirus task force briefing on Tuesday at the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump made the announcement during the coronavirus task force briefing on Tuesday at the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump made the announcement during the coronavirus task force briefing on Tuesday at the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "One: Wonderland",
+      "abstract": "A young man finds escape on the internet. He doesn’t realize that on the other side of the screen, a force is pulling him in.",
+      "url": "https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html",
+      "uri": "nyt://article/8c90210c-1d8f-51fe-a8da-81807f1d265f",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T16:07:40-04:00",
+      "created_date": "2020-04-16T15:34:02-04:00",
+      "published_date": "2020-04-16T15:34:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Podcasts",
+        "Science and Technology",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "New York Times",
+        "YouTube.com"
+      ],
+      "per_facet": [
+        "Cain, Caleb"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/podcasts/16rabbithole-image/rabbit-hole-album-art-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/podcasts/16rabbithole-image/rabbit-hole-album-art-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/podcasts/16rabbithole-image/rabbit-hole-album-art-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/podcasts/16rabbithole-image/15rabbithole-image-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/podcasts/16rabbithole-image/rabbit-hole-album-art-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RMl9zA"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "A Father’s Impossible Promise",
+      "abstract": "‘It’s not always like this,’ I told my newborn son. But I don’t know what he will face in his lifetime.",
+      "url": "https://www.nytimes.com/2020/04/18/opinion/coronavirus-parenting-war.html",
+      "uri": "nyt://article/f3fe417c-4c85-582e-a8ae-4b689faa6ed0",
+      "byline": "By Matt Gallagher",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:06-04:00",
+      "created_date": "2020-04-18T11:20:06-04:00",
+      "published_date": "2020-04-18T11:20:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "Terrorism",
+        "Coronavirus (2019-nCoV)",
+        "September 11 (2001)",
+        "Children and Childhood",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18gallagher/18gallagher-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1959,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Rota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18gallagher/18gallagher-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Rota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18gallagher/18gallagher-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Rota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18gallagher/18gallagher-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Rota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18gallagher/18gallagher-articleInline.jpg",
+          "format": "Normal",
+          "height": 199,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Rota"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cwL3PQ"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Missing Obama’s Voice",
+      "abstract": "Many young progressives, conflicted about Mr. Obama’s legacy, can’t help but welcome his public return, filled with nostalgia.",
+      "url": "https://www.nytimes.com/2020/04/18/opinion/sunday/coronavirus-barack-obama-biden-2020.html",
+      "uri": "nyt://article/fb32f8b2-1fe7-5045-8868-71d44fb0cbbd",
+      "byline": "By Talmon Joseph Smith",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:06-04:00",
+      "created_date": "2020-04-18T10:31:37-04:00",
+      "published_date": "2020-04-18T10:31:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Endorsements",
+        "Coronavirus (2019-nCoV)",
+        "Millennial Generation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Favreau, Jonathan E (1981- )",
+        "Obama, Barack",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/00talmonWeb/00talmonWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/00talmonWeb/00talmonWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/00talmonWeb/00talmonWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/00talmonWeb/00talmonWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/00talmonWeb/00talmonWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ex4tpl"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "What It Will Take to Reopen New York",
+      "abstract": "It can’t do this alone.",
+      "url": "https://www.nytimes.com/2020/04/17/opinion/coronavirus-new-york-testing.html",
+      "uri": "nyt://article/85b2cf57-24a1-5df8-bf99-31aea0c2ee84",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:06-04:00",
+      "created_date": "2020-04-17T19:26:27-04:00",
+      "published_date": "2020-04-17T19:26:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tests (Medical)",
+        "Medicine and Health",
+        "Coronavirus (2019-nCoV)",
+        "September 11 (2001)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Postal Service (US)"
+      ],
+      "per_facet": [
+        "Cuomo, Andrew M",
+        "de Blasio, Bill",
+        "Frieden, Thomas R"
+      ],
+      "geo_facet": [
+        "New York City",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17workers/merlin_171616170_9e32d9d6-e017-498e-99d3-ef16e54cb3ab-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1416,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through coronavirus testing site in Syracuse, N.Y.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17workers/17workers-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through coronavirus testing site in Syracuse, N.Y.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17workers/17workers-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through coronavirus testing site in Syracuse, N.Y.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17workers/17workers-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through coronavirus testing site in Syracuse, N.Y.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17workers/merlin_171616170_9e32d9d6-e017-498e-99d3-ef16e54cb3ab-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through coronavirus testing site in Syracuse, N.Y.",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3blmhBR"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "‘I Am the Portrait of Downward Mobility’",
+      "abstract": "Today’s 40-year-olds on the lives they’ve led, and now this.",
+      "url": "https://www.nytimes.com/interactive/2020/04/17/opinion/inequality-economy-1980.html",
+      "uri": "nyt://interactive/35facf98-5c7d-5709-8387-595a957d1b61",
+      "byline": "By Lora Kelley",
+      "item_type": "Interactive",
+      "updated_date": "2020-04-18T10:23:52-04:00",
+      "created_date": "2020-04-17T05:00:02-04:00",
+      "published_date": "2020-04-17T05:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Income",
+        "Tuition",
+        "Income Inequality"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/inequality-economy-1980-1587099997865/inequality-economy-1980-1587099997865-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1297,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/inequality-economy-1980-1587099997865/inequality-economy-1980-1587099997865-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/inequality-economy-1980-1587099997865/inequality-economy-1980-1587099997865-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/inequality-economy-1980-1587099997865/inequality-economy-1980-1587099997865-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/inequality-economy-1980-1587099997865/inequality-economy-1980-1587099997865-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/34GitIY"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Think This Pandemic Is Bad? We Have Another Crisis Coming",
+      "abstract": "Addressing climate change is a big-enough idea to revive the economy.",
+      "url": "https://www.nytimes.com/2020/04/15/opinion/climate-change-covid-economy.html",
+      "uri": "nyt://article/303b63aa-47bb-5c5b-9ef8-88a0548b145c",
+      "byline": "By Rhiana Gunn-Wright",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:07-04:00",
+      "created_date": "2020-04-15T05:00:20-04:00",
+      "published_date": "2020-04-15T05:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "United States Economy",
+        "Global Warming",
+        "Green New Deal",
+        "Environment",
+        "Black People",
+        "Hispanic-Americans",
+        "Income Inequality",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate",
+        "Republican Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/15-inequality1/merlin_149139153_c371b28e-4e47-40ce-bbd9-6b939566018d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Baton Rouge, La., near an ExxonMobil oil refinery.",
+          "copyright": "Emily Kask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/15-inequality1/15-inequality1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Baton Rouge, La., near an ExxonMobil oil refinery.",
+          "copyright": "Emily Kask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/15-inequality1/15-inequality1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Baton Rouge, La., near an ExxonMobil oil refinery.",
+          "copyright": "Emily Kask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/15-inequality1/15-inequality1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Baton Rouge, La., near an ExxonMobil oil refinery.",
+          "copyright": "Emily Kask for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/opinion/15-inequality1/merlin_149139153_c371b28e-4e47-40ce-bbd9-6b939566018d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Baton Rouge, La., near an ExxonMobil oil refinery.",
+          "copyright": "Emily Kask for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bbfsmn"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Trump and His Allies Are Worried About More Than November",
+      "abstract": "The temporary imposition of popular relief programs in response to the coronavirus makes Republicans nervous.",
+      "url": "https://www.nytimes.com/2020/04/17/opinion/coronavirus-relief-trump.html",
+      "uri": "nyt://article/72f217e4-cac5-5d51-bd2c-2842c6076e76",
+      "byline": "By Jamelle Bouie",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:07-04:00",
+      "created_date": "2020-04-17T05:00:18-04:00",
+      "published_date": "2020-04-17T05:00:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "United States Politics and Government",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Presidential Election of 2020",
+        "Recession and Depression",
+        "Conservatism (US Politics)",
+        "Coronavirus (2019-nCoV)",
+        "Unemployment Insurance"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump discusses small business relief at the White House last week.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump discusses small business relief at the White House last week.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump discusses small business relief at the White House last week.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump discusses small business relief at the White House last week.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump discusses small business relief at the White House last week.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3euZvJO"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Worms Turn in My Composting Bin",
+      "abstract": "My relationship with trash changed for the better from the first banana peel I kept out of it.",
+      "url": "https://www.nytimes.com/2020/04/17/opinion/backyard-composting-compost-coronavirus.html",
+      "uri": "nyt://article/bb8c9f63-0b3f-508b-96a2-1a5f641ab699",
+      "byline": "By Jessica Stolzberg",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:06-04:00",
+      "created_date": "2020-04-17T19:20:39-04:00",
+      "published_date": "2020-04-17T19:20:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Waste Materials and Disposal",
+        "Recycling of Waste Materials",
+        "Compost",
+        "Coronavirus (2019-nCoV)",
+        "Sustainable Living"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18stolzbergWeb/merlin_156723750_f9e07cdd-e864-47bc-b966-99093b919b13-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1380,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rodrigo Garrido/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18stolzbergWeb/18stolzbergWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rodrigo Garrido/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18stolzbergWeb/18stolzbergWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rodrigo Garrido/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18stolzbergWeb/18stolzbergWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rodrigo Garrido/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/opinion/18stolzbergWeb/18stolzbergWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rodrigo Garrido/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2KaK3Vk"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Elizabeth Warren Has a Plan for Joe Biden",
+      "abstract": "To achieve affordable health care for everyone, he should look closely at the ideas of his former rival.",
+      "url": "https://www.nytimes.com/2020/04/16/opinion/joe-biden-health-care.html",
+      "uri": "nyt://article/19c60bb8-aa60-5812-9b92-c52a0ce2bfeb",
+      "byline": "By Jacob S. Hacker",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:15-04:00",
+      "created_date": "2020-04-16T19:30:07-04:00",
+      "published_date": "2020-04-16T19:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Health Insurance and Managed Care",
+        "Medicare",
+        "Coronavirus (2019-nCoV)",
+        "Patient Protection and Affordable Care Act (2010)"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Sanders, Bernard",
+        "Warren, Elizabeth"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/16Hacker1/16Hacker1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A health care rally in California in 2017.",
+          "copyright": "Ronen Tivony/NurPhoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/16Hacker1/16Hacker1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A health care rally in California in 2017.",
+          "copyright": "Ronen Tivony/NurPhoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/16Hacker1/16Hacker1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A health care rally in California in 2017.",
+          "copyright": "Ronen Tivony/NurPhoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/16Hacker1/16Hacker1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A health care rally in California in 2017.",
+          "copyright": "Ronen Tivony/NurPhoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/opinion/16Hacker1/16Hacker1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A health care rally in California in 2017.",
+          "copyright": "Ronen Tivony/NurPhoto, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bh6CUc"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Story of Remdesivir",
+      "abstract": "Just as there are no atheists in foxholes, there should be no big-pharma haters in pandemics.",
+      "url": "https://www.nytimes.com/2020/04/17/opinion/remdesivir-coronavirus.html",
+      "uri": "nyt://article/5e4aacf9-6d34-5c99-b4c7-8b1bfe646031",
+      "byline": "By Bret Stephens",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:09-04:00",
+      "created_date": "2020-04-17T20:18:29-04:00",
+      "published_date": "2020-04-17T20:18:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Remdesivir (Drug)",
+        "Drugs (Pharmaceuticals)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Food and Drug Administration",
+        "Gilead Sciences Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17stephens/merlin_171316020_24b7fd0e-0932-4728-9f53-cb11e5a2ba19-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vial of the drug remdesivir is visually inspected at a Gilead manufacturing site in the United States. ",
+          "copyright": "Gilead Sciences, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17stephens/merlin_171316020_24b7fd0e-0932-4728-9f53-cb11e5a2ba19-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vial of the drug remdesivir is visually inspected at a Gilead manufacturing site in the United States. ",
+          "copyright": "Gilead Sciences, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17stephens/merlin_171316020_24b7fd0e-0932-4728-9f53-cb11e5a2ba19-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vial of the drug remdesivir is visually inspected at a Gilead manufacturing site in the United States. ",
+          "copyright": "Gilead Sciences, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17stephens/merlin_171316020_24b7fd0e-0932-4728-9f53-cb11e5a2ba19-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vial of the drug remdesivir is visually inspected at a Gilead manufacturing site in the United States. ",
+          "copyright": "Gilead Sciences, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17stephens/merlin_171316020_24b7fd0e-0932-4728-9f53-cb11e5a2ba19-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vial of the drug remdesivir is visually inspected at a Gilead manufacturing site in the United States. ",
+          "copyright": "Gilead Sciences, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bjk21L"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Trump’s Dow-at-30,000 Dream Hurt America",
+      "abstract": "Trump is Mark Twain’s king, the great American con man.",
+      "url": "https://www.nytimes.com/2020/04/17/opinion/trump-coronavirus.html",
+      "uri": "nyt://article/9d07cc08-1947-5b63-9fa5-a197b45b65f2",
+      "byline": "By Roger Cohen",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:10-04:00",
+      "created_date": "2020-04-17T15:38:09-04:00",
+      "published_date": "2020-04-17T15:38:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Presidential Election of 2020",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "World Health Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China",
+        "United States",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17cohen/merlin_171265398_b6587f4d-909b-42a6-aace-841f71d9f429-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1297,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17cohen/17cohen-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17cohen/17cohen-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17cohen/17cohen-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17cohen/merlin_171265398_b6587f4d-909b-42a6-aace-841f71d9f429-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bjgixu"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Bringing the Economy Back to Life",
+      "abstract": "A former Treasury secretary argues that Congress should act now to help small businesses and poor urban neighborhoods while committing to future fiscal repair.",
+      "url": "https://www.nytimes.com/2020/04/17/opinion/robert-rubin-coronavirus-economy.html",
+      "uri": "nyt://article/b3dd9ded-4eea-5835-b556-4b6b0678cccf",
+      "byline": "By Robert E. Rubin",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T11:31:11-04:00",
+      "created_date": "2020-04-17T05:00:14-04:00",
+      "published_date": "2020-04-17T05:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Treasury Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17Rubin1/17Rubin1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1304,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lido a popular Harlem eatery is one of the thousands of restaurants and small businesses in urban areas that had to close and layoff their employees because of social distancing regulations.",
+          "copyright": "HSP Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17Rubin1/17Rubin1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lido a popular Harlem eatery is one of the thousands of restaurants and small businesses in urban areas that had to close and layoff their employees because of social distancing regulations.",
+          "copyright": "HSP Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17Rubin1/17Rubin1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lido a popular Harlem eatery is one of the thousands of restaurants and small businesses in urban areas that had to close and layoff their employees because of social distancing regulations.",
+          "copyright": "HSP Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17Rubin1/17Rubin1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lido a popular Harlem eatery is one of the thousands of restaurants and small businesses in urban areas that had to close and layoff their employees because of social distancing regulations.",
+          "copyright": "HSP Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/opinion/17Rubin1/17Rubin1-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lido a popular Harlem eatery is one of the thousands of restaurants and small businesses in urban areas that had to close and layoff their employees because of social distancing regulations.",
+          "copyright": "HSP Archive"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "The Seas as the Ultimate Coronavirus Isolation? Not. So. Fast.",
+      "abstract": "Folks who live on boats face off with land they can’t set foot on, staring down logistical hurdles, ethical issues and social media harshness.",
+      "url": "https://www.nytimes.com/2020/04/18/style/coronavirus-yachts.html",
+      "uri": "nyt://article/114c2f40-259b-5db6-bbb2-e6b8e2109a89",
+      "byline": "By Peter Wilson",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T06:02:27-04:00",
+      "created_date": "2020-04-18T06:00:10-04:00",
+      "published_date": "2020-04-18T06:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sailboats and Sailing",
+        "Boats and Boating",
+        "Coronavirus (2019-nCoV)",
+        "Social Media",
+        "Quarantines",
+        "Travel and Vacations",
+        "Luxury Goods and Services"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/fashion/18VIRUS-YACHTS5/oakImage-1586968813164-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Simon and Carla Fowler have spent the last two years living at sea on their catamaran. On the water when the pandemic hit, they face many restrictions when it comes to venturing ashore.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/fashion/18VIRUS-YACHTS5/18VIRUS-YACHTS5-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Simon and Carla Fowler have spent the last two years living at sea on their catamaran. On the water when the pandemic hit, they face many restrictions when it comes to venturing ashore.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/fashion/18VIRUS-YACHTS5/18VIRUS-YACHTS5-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Simon and Carla Fowler have spent the last two years living at sea on their catamaran. On the water when the pandemic hit, they face many restrictions when it comes to venturing ashore.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/fashion/18VIRUS-YACHTS5/oakImage-1586968813164-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Simon and Carla Fowler have spent the last two years living at sea on their catamaran. On the water when the pandemic hit, they face many restrictions when it comes to venturing ashore.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/fashion/18VIRUS-YACHTS5/oakImage-1586968813164-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Simon and Carla Fowler have spent the last two years living at sea on their catamaran. On the water when the pandemic hit, they face many restrictions when it comes to venturing ashore.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3bjUx0x"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "How ACT UP Remade Political Organizing in America",
+      "abstract": "The coalition that fought against AIDS stigma and worked to slow the plague changed patients’ rights and contemporary protest movements.",
+      "url": "https://www.nytimes.com/interactive/2020/04/13/t-magazine/act-up-aids.html",
+      "uri": "nyt://interactive/9ed349e9-d878-5a8d-9fd4-aabaac831e9b",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2020-04-18T06:02:24-04:00",
+      "created_date": "2020-04-13T00:01:07-04:00",
+      "published_date": "2020-04-13T00:01:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Acquired Immune Deficiency Syndrome",
+        "Epidemics",
+        "Medicine and Health",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [
+        "Act Up"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-GUB5/13tmag-cultureimages-slide-GUB5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rosie Marks"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-GUB5/13tmag-cultureimages-slide-GUB5-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rosie Marks"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-GUB5/13tmag-cultureimages-slide-GUB5-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rosie Marks"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-GUB5/13tmag-cultureimages-slide-GUB5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rosie Marks"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-GUB5/13tmag-cultureimages-slide-GUB5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rosie Marks"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "mutfund",
+      "title": "We Will Always Have Avarice",
+      "abstract": "Making money in a crisis never goes out of style, our columnist says.",
+      "url": "https://www.nytimes.com/2020/04/16/business/mutfund/crisis-always-have-avarice.html",
+      "uri": "nyt://article/dab445f1-4ddf-50a1-a5f4-ecf57440ed0c",
+      "byline": "By John Schwartz",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T06:02:26-04:00",
+      "created_date": "2020-04-16T05:00:12-04:00",
+      "published_date": "2020-04-16T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "Essay",
+      "des_facet": [
+        "Computers and the Internet",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Quarantines",
+        "Stocks and Bonds"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-ESSAY/merlin_171560193_00ada069-4ac4-4daf-bfab-b9c9f0dd2627-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1578,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Glynis Sweeny"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-ESSAY/19MFQ-ESSAY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Glynis Sweeny"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-ESSAY/19MFQ-ESSAY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Glynis Sweeny"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-ESSAY/19MFQ-ESSAY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Glynis Sweeny"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/business/19MFQ-ESSAY/merlin_171560193_00ada069-4ac4-4daf-bfab-b9c9f0dd2627-articleInline.jpg",
+          "format": "Normal",
+          "height": 146,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Glynis Sweeny"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bcXU9j"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Amid Pandemic, Hong Kong Arrests Major Pro-Democracy Figures",
+      "abstract": "Rarely have so many prominent pro-democracy figures — over a dozen — been arrested at once. The arrests signaled a broader crackdown on the antigovernment movement that roiled the semiautonomous city last year.",
+      "url": "https://www.nytimes.com/2020/04/18/world/asia/hong-kong-arrests.html",
+      "uri": "nyt://article/30bc1fa4-c154-5d16-a455-0e9585652447",
+      "byline": "By Elaine Yu and Austin Ramzy",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:24:17-04:00",
+      "created_date": "2020-04-18T07:08:15-04:00",
+      "published_date": "2020-04-18T07:08:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hong Kong Protests (2019)",
+        "Politics and Government",
+        "Demonstrations, Protests and Riots"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Leung Kwok-hung",
+        "Luo Huining"
+      ],
+      "geo_facet": [
+        "Hong Kong",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18hongkong2/merlin_158964870_face5e77-b226-4691-97e4-e63553b4128d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Lee, center, a Hong Kong politician and lawyer, speaking outside the Justice Place  last August after a silent march.",
+          "copyright": "Anthony Kwan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18hongkong2/18hongkong2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Lee, center, a Hong Kong politician and lawyer, speaking outside the Justice Place  last August after a silent march.",
+          "copyright": "Anthony Kwan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18hongkong2/18hongkong2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Lee, center, a Hong Kong politician and lawyer, speaking outside the Justice Place  last August after a silent march.",
+          "copyright": "Anthony Kwan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18hongkong2/18hongkong2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Lee, center, a Hong Kong politician and lawyer, speaking outside the Justice Place  last August after a silent march.",
+          "copyright": "Anthony Kwan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18hongkong2/18hongkong2-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Lee, center, a Hong Kong politician and lawyer, speaking outside the Justice Place  last August after a silent march.",
+          "copyright": "Anthony Kwan/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2wRYavG"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Under Fire, Live Nation Outlines New Ticket Refund Plan",
+      "abstract": "The company, which owns Ticketmaster, responded after complaints by consumers who bought tickets for shows that could not be held because of the pandemic.",
+      "url": "https://www.nytimes.com/2020/04/17/arts/music/live-nation-refunds-virus.html",
+      "uri": "nyt://article/fa96848c-fd73-58be-83fd-bb538bb5962b",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:05-04:00",
+      "created_date": "2020-04-17T18:36:58-04:00",
+      "published_date": "2020-04-17T18:36:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Coronavirus (2019-nCoV)",
+        "Rebates and Refunds"
+      ],
+      "org_facet": [
+        "AEG Presents",
+        "Live Nation Entertainment Inc",
+        "Ticketmaster"
+      ],
+      "per_facet": [
+        "Swift, Taylor"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/arts/17VIRUS-REFUNDS1/merlin_124947686_58b84f8c-ef2c-4249-8ca0-e45b6e987415-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Live Nation outlined a new plan designed to address the concerns of ticket holders who said they encountered difficulties securing refunds for shows that are no longer being held due to the pandemic.",
+          "copyright": "Justin T. Gellerson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/arts/17VIRUS-REFUNDS1/17VIRUS-REFUNDS1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Live Nation outlined a new plan designed to address the concerns of ticket holders who said they encountered difficulties securing refunds for shows that are no longer being held due to the pandemic.",
+          "copyright": "Justin T. Gellerson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/arts/17VIRUS-REFUNDS1/17VIRUS-REFUNDS1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Live Nation outlined a new plan designed to address the concerns of ticket holders who said they encountered difficulties securing refunds for shows that are no longer being held due to the pandemic.",
+          "copyright": "Justin T. Gellerson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/arts/17VIRUS-REFUNDS1/17VIRUS-REFUNDS1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Live Nation outlined a new plan designed to address the concerns of ticket holders who said they encountered difficulties securing refunds for shows that are no longer being held due to the pandemic.",
+          "copyright": "Justin T. Gellerson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/arts/17VIRUS-REFUNDS1/merlin_124947686_58b84f8c-ef2c-4249-8ca0-e45b6e987415-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Live Nation outlined a new plan designed to address the concerns of ticket holders who said they encountered difficulties securing refunds for shows that are no longer being held due to the pandemic.",
+          "copyright": "Justin T. Gellerson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34I1lCE"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Land O’Lakes Removes Native American Woman From Its Products",
+      "abstract": "The company, a farmer-owned cooperative formed in 1921, said it would replace the decades-old illustration with photos of its members on some products.",
+      "url": "https://www.nytimes.com/2020/04/17/business/land-o-lakes-butter.html",
+      "uri": "nyt://article/52a400fd-ce24-53b0-8d56-a1601ead1bd9",
+      "byline": "By Christine Hauser",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:05-04:00",
+      "created_date": "2020-04-17T18:05:35-04:00",
+      "published_date": "2020-04-17T18:05:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Native Americans",
+        "Containers and Packaging",
+        "Mascots"
+      ],
+      "org_facet": [
+        "American Psychological Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Minnesota"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/17ALTxp-landolakes-print/17xp-landolake-image3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 812,
+          "width": 1600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New and old labels on Land O&rsquo;Lakes products.",
+          "copyright": "Land O&rsquo;Lakes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/17ALTxp-landolakes-print/17xp-landolake-image3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New and old labels on Land O&rsquo;Lakes products.",
+          "copyright": "Land O&rsquo;Lakes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/17ALTxp-landolakes-print/17xp-landolake-image3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New and old labels on Land O&rsquo;Lakes products.",
+          "copyright": "Land O&rsquo;Lakes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/17ALTxp-landolakes-print/17xp-landolake-image3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New and old labels on Land O&rsquo;Lakes products.",
+          "copyright": "Land O&rsquo;Lakes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/18/us/17ALTxp-landolakes-print/17xp-landolake-image3-articleInline.jpg",
+          "format": "Normal",
+          "height": 96,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New and old labels on Land O&rsquo;Lakes products.",
+          "copyright": "Land O&rsquo;Lakes"
+        }
+      ],
+      "short_url": "https://nyti.ms/2yrcJGJ"
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "After a Year of Silence, a Jailed Saudi Princess Appeals for Help",
+      "abstract": "The detentions of a prince and princess add to the tally of royals who have been locked up during the rise of the kingdom’s powerful crown prince.",
+      "url": "https://www.nytimes.com/2020/04/17/world/middleeast/saudi-princess-prison.html",
+      "uri": "nyt://article/f6fba1c1-b06e-584c-9b95-d17462d0fcbb",
+      "byline": "By Ben Hubbard",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:06-04:00",
+      "created_date": "2020-04-17T15:48:17-04:00",
+      "published_date": "2020-04-17T15:48:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Women's Rights",
+        "Human Rights and Human Rights Violations",
+        "Detainees",
+        "Royal Families",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mohammed bin Salman (1985- )"
+      ],
+      "geo_facet": [
+        "London (England)",
+        "Saudi Arabia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/16/world/16saudi-royals/merlin_171675753_01a1e8e3-a9aa-41fb-91e4-e928523f94c2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1401,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Princess Basmah Bint Saud put out a statement this week saying she was being held in a Saudi prison without charge and was in urgent need of medical care. This photo is from 2017.",
+          "copyright": "Mandel Ngan/Agence France-Presse, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/16/world/16saudi-royals/merlin_171675753_01a1e8e3-a9aa-41fb-91e4-e928523f94c2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Princess Basmah Bint Saud put out a statement this week saying she was being held in a Saudi prison without charge and was in urgent need of medical care. This photo is from 2017.",
+          "copyright": "Mandel Ngan/Agence France-Presse, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/16/world/16saudi-royals/merlin_171675753_01a1e8e3-a9aa-41fb-91e4-e928523f94c2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Princess Basmah Bint Saud put out a statement this week saying she was being held in a Saudi prison without charge and was in urgent need of medical care. This photo is from 2017.",
+          "copyright": "Mandel Ngan/Agence France-Presse, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/16/world/16saudi-royals/merlin_171675753_01a1e8e3-a9aa-41fb-91e4-e928523f94c2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Princess Basmah Bint Saud put out a statement this week saying she was being held in a Saudi prison without charge and was in urgent need of medical care. This photo is from 2017.",
+          "copyright": "Mandel Ngan/Agence France-Presse, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/16/world/16saudi-royals/merlin_171675753_01a1e8e3-a9aa-41fb-91e4-e928523f94c2-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Princess Basmah Bint Saud put out a statement this week saying she was being held in a Saudi prison without charge and was in urgent need of medical care. This photo is from 2017.",
+          "copyright": "Mandel Ngan/Agence France-Presse, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3evwXQj"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Doctor Charged With Fraud After U.S. Says He Sold Treatment as ‘100 Percent’ Cure for Covid-19",
+      "abstract": "A lawyer for Dr. Jennings Ryan Staley of California said his client believed he was helping people.",
+      "url": "https://www.nytimes.com/2020/04/17/us/coronavirus-treatment-pack-jennings-ryan-staley.html",
+      "uri": "nyt://article/97de4551-8938-50cf-a18a-21b207882ab2",
+      "byline": "By Aimee Ortiz",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:06-04:00",
+      "created_date": "2020-04-17T23:58:34-04:00",
+      "published_date": "2020-04-17T23:58:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Hydroxychloroquine (Drug)",
+        "Appointments and Executive Changes",
+        "Frauds and Swindling"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "San Diego (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17skinny-beach-doc/17skinny-beach-doc-superJumbo-v5.jpg",
+          "format": "superJumbo",
+          "height": 1068,
+          "width": 1601,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jennings Ryan Staley, 44, was charged with mail fraud on Thursday.",
+          "copyright": "Skinny Beach Med Spa"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17skinny-beach-doc/17skinny-beach-doc-thumbStandard-v5.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jennings Ryan Staley, 44, was charged with mail fraud on Thursday.",
+          "copyright": "Skinny Beach Med Spa"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17skinny-beach-doc/17skinny-beach-doc-thumbLarge-v5.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jennings Ryan Staley, 44, was charged with mail fraud on Thursday.",
+          "copyright": "Skinny Beach Med Spa"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17skinny-beach-doc/17skinny-beach-doc-mediumThreeByTwo210-v5.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jennings Ryan Staley, 44, was charged with mail fraud on Thursday.",
+          "copyright": "Skinny Beach Med Spa"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17skinny-beach-doc/17skinny-beach-doc-articleInline-v5.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jennings Ryan Staley, 44, was charged with mail fraud on Thursday.",
+          "copyright": "Skinny Beach Med Spa"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VALNfT"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "As Amazon Rises, So Does the Opposition",
+      "abstract": "Stacy Mitchell knew that taking on a trillion-dollar company would be a lopsided fight. But the pandemic has not only made Amazon more essential. It has also made it vulnerable.",
+      "url": "https://www.nytimes.com/2020/04/18/technology/athena-mitchell-amazon.html",
+      "uri": "nyt://article/954739d2-5426-5f8d-8329-7e64b9c6b78b",
+      "byline": "By David Streitfeld",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:02-04:00",
+      "created_date": "2020-04-18T05:00:22-04:00",
+      "published_date": "2020-04-18T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Labor and Jobs",
+        "Organized Labor",
+        "Antitrust Laws and Competition Issues",
+        "E-Commerce",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Athena (Coalition)",
+        "Walmart Stores Inc"
+      ],
+      "per_facet": [
+        "Mitchell, Stacy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/business/00amazon-resistance1/merlin_171613056_0e00c409-71d4-475f-9f35-a42b9ba5ea5a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stacy Mitchell, the co-director of the Institute of Local Self-Reliance.",
+          "copyright": "Ryan David Brown for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/business/00amazon-resistance1/00amazon-resistance1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stacy Mitchell, the co-director of the Institute of Local Self-Reliance.",
+          "copyright": "Ryan David Brown for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/business/00amazon-resistance1/00amazon-resistance1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stacy Mitchell, the co-director of the Institute of Local Self-Reliance.",
+          "copyright": "Ryan David Brown for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/business/00amazon-resistance1/00amazon-resistance1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stacy Mitchell, the co-director of the Institute of Local Self-Reliance.",
+          "copyright": "Ryan David Brown for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/business/00amazon-resistance1/merlin_171613056_0e00c409-71d4-475f-9f35-a42b9ba5ea5a-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stacy Mitchell, the co-director of the Institute of Local Self-Reliance.",
+          "copyright": "Ryan David Brown for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XKmLNX"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "‘All of It Is Happening All at Once’: When Congress Works From Home.",
+      "abstract": "With the Capitol shuttered for the foreseeable future, senators and representatives are struggling, with the rest of the country, to adapt to virtual working.",
+      "url": "https://www.nytimes.com/2020/04/18/us/politics/coronavirus-congress-remote-work.html",
+      "uri": "nyt://article/9f7ca7fc-b92a-58c7-a686-cc2c68e4802d",
+      "byline": "By Nicholas Fandos and Sheryl Gay Stolberg",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:01-04:00",
+      "created_date": "2020-04-18T05:00:28-04:00",
+      "published_date": "2020-04-18T05:00:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Telecommuting",
+        "Videophones and Videoconferencing"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Dingell, Deborah",
+        "Grassley, Charles E",
+        "Hayes, Jahana",
+        "King, Angus Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00dc-virus-cong-wfh-promo/merlin_171666996_29775888-bfb2-400f-8674-816780934ec8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1434,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elizabeth D. Herman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00dc-virus-cong-wfh-promo/00dc-virus-cong-wfh-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elizabeth D. Herman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00dc-virus-cong-wfh-promo/00dc-virus-cong-wfh-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elizabeth D. Herman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00dc-virus-cong-wfh-promo/00dc-virus-cong-wfh-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elizabeth D. Herman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/17/us/politics/00dc-virus-cong-wfh-promo/merlin_171666996_29775888-bfb2-400f-8674-816780934ec8-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elizabeth D. Herman for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "africa",
+      "title": "U.S. Military Cutting Medevac Flights for Troops in West Africa",
+      "abstract": "As Army Green Berets move to confront new threats in the Sahel, the Pentagon is reducing the number of helicopters available for casualty evacuation flights.",
+      "url": "https://www.nytimes.com/2020/04/18/world/africa/west-africa-special-operations-medevac.html",
+      "uri": "nyt://article/f81526e9-dd7a-5d87-bc1b-20a3b8125873",
+      "byline": "By Eric Schmitt",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T09:13:35-04:00",
+      "created_date": "2020-04-18T05:00:12-04:00",
+      "published_date": "2020-04-18T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "Terrorism",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Al Qaeda",
+        "Boko Haram",
+        "Defense Department",
+        "United States Africa Command",
+        "United States Special Operations Command",
+        "United States Army Special Forces (Green Berets)"
+      ],
+      "per_facet": [
+        "Esper, Mark T"
+      ],
+      "geo_facet": [
+        "Africa",
+        "Niger",
+        "Mali",
+        "Nigeria"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/politics/18dc-africa-mission/merlin_166339425_55c0195d-b075-4656-99c6-79ef7c9090df-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American special forces training with West African soldiers in 2018 in Agadez, Niger.",
+          "copyright": "Tara Todras-Whitehill for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/politics/18dc-africa-mission/18dc-africa-mission-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American special forces training with West African soldiers in 2018 in Agadez, Niger.",
+          "copyright": "Tara Todras-Whitehill for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/politics/18dc-africa-mission/18dc-africa-mission-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American special forces training with West African soldiers in 2018 in Agadez, Niger.",
+          "copyright": "Tara Todras-Whitehill for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/politics/18dc-africa-mission/merlin_166339425_55c0195d-b075-4656-99c6-79ef7c9090df-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American special forces training with West African soldiers in 2018 in Agadez, Niger.",
+          "copyright": "Tara Todras-Whitehill for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/us/politics/18dc-africa-mission/merlin_166339425_55c0195d-b075-4656-99c6-79ef7c9090df-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American special forces training with West African soldiers in 2018 in Agadez, Niger.",
+          "copyright": "Tara Todras-Whitehill for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cySwhj"
+    },
+    {
+      "section": "realestate",
+      "subsection": "",
+      "title": "Interested in a Short-Term Rental for Social Distancing? Be Prepared to Stay Longer",
+      "abstract": "From Airbnb to luxury “quarantine apartments,” rental platforms are offering bargains for longer stays — some even offer coronavirus testing.",
+      "url": "https://www.nytimes.com/2020/04/16/realestate/coronavirus-short-term-rentals.html",
+      "uri": "nyt://article/ae2e3a39-c29b-5aee-89c3-1c49039a258c",
+      "byline": "By Julie Lasky",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T08:51:01-04:00",
+      "created_date": "2020-04-16T06:00:09-04:00",
+      "published_date": "2020-04-16T06:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Renting and Leasing (Real Estate)"
+      ],
+      "org_facet": [
+        "Airbnb"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/realestate/16virus-rentals1/16virus-rentals1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The idea of a rented sanctuary is taken to the pinnacle of luxury with Le Bijou, a group of 42 apartments in nine locations in Switzerland.",
+          "copyright": "Le Bijou"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/realestate/16virus-rentals1/16virus-rentals1-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The idea of a rented sanctuary is taken to the pinnacle of luxury with Le Bijou, a group of 42 apartments in nine locations in Switzerland.",
+          "copyright": "Le Bijou"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/realestate/16virus-rentals1/16virus-rentals1-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The idea of a rented sanctuary is taken to the pinnacle of luxury with Le Bijou, a group of 42 apartments in nine locations in Switzerland.",
+          "copyright": "Le Bijou"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/realestate/16virus-rentals1/16virus-rentals1-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The idea of a rented sanctuary is taken to the pinnacle of luxury with Le Bijou, a group of 42 apartments in nine locations in Switzerland.",
+          "copyright": "Le Bijou"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/realestate/16virus-rentals1/16virus-rentals1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The idea of a rented sanctuary is taken to the pinnacle of luxury with Le Bijou, a group of 42 apartments in nine locations in Switzerland.",
+          "copyright": "Le Bijou"
+        }
+      ],
+      "short_url": "https://nyti.ms/34Ggjcd"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "Is the Virus on My Clothes? My Shoes? My Hair? My Newspaper?",
+      "abstract": "We asked the experts to answer questions about all the places coronavirus lurks (or doesn’t). You’ll feel better after reading this.",
+      "url": "https://www.nytimes.com/2020/04/17/well/live/coronavirus-contagion-spead-clothes-shoes-hair-newspaper-packages-mail-infectious.html",
+      "uri": "nyt://article/1ebbaa13-b8f3-52a0-948e-bc45374cddbf",
+      "byline": "By Tara Parker-Pope",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T10:37:17-04:00",
+      "created_date": "2020-04-17T11:25:57-04:00",
+      "published_date": "2020-04-17T11:25:57-04:00",
+      "material_type_facet": "",
+      "kicker": "Ask Well",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Hygiene and Cleanliness",
+        "Quarantines",
+        "Supermarkets and Grocery Stores",
+        "Shoes and Boots",
+        "Fashion and Apparel",
+        "Newspapers",
+        "Hair"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/well/19askwell-coronavirus-clothing/well-shoes-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/well/19askwell-coronavirus-clothing/well-shoes-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/well/19askwell-coronavirus-clothing/well-shoes-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/well/19askwell-coronavirus-clothing/well-shoes-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/well/19askwell-coronavirus-clothing/well-shoes-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2xFVqBM"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "The Difference Between Copyrights, Trademarks and Patents",
+      "abstract": "Whether you’re an inventor, a writer or an artist, you need to know what these each mean — and which you need to protect your work.",
+      "url": "https://www.nytimes.com/article/copyrights-trademarks-patents.html",
+      "uri": "nyt://article/68e1a8a0-933b-52e4-a065-5edf067bd0fd",
+      "byline": "By Alexander Webb",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T17:12:10-04:00",
+      "created_date": "2020-04-16T16:30:07-04:00",
+      "published_date": "2020-04-16T16:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Inventions and Patents",
+        "Copyrights and Copyright Violations",
+        "Trademarks and Trade Names",
+        "Computers and the Internet",
+        "Art",
+        "Books and Literature",
+        "Intellectual Property",
+        "Suits and Litigation (Civil)",
+        "Robberies and Thefts"
+      ],
+      "org_facet": [
+        "Patent and Trademark Office (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/smarter-living/00sl-patents/merlin_163950897_5bf9221f-00ce-42a7-90af-5c5c5540c8fc-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1484,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Temilade Adelaja/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/smarter-living/00sl-patents/00sl-patents-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Temilade Adelaja/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/smarter-living/00sl-patents/00sl-patents-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Temilade Adelaja/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/smarter-living/00sl-patents/00sl-patents-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Temilade Adelaja/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/smarter-living/00sl-patents/merlin_163950897_5bf9221f-00ce-42a7-90af-5c5c5540c8fc-articleInline.jpg",
+          "format": "Normal",
+          "height": 138,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Temilade Adelaja/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2K88gvv"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "Yes, Even Introverts Can Be Lonely Right Now",
+      "abstract": "Introverts crave connection, too — we just need more boundaries.",
+      "url": "https://www.nytimes.com/2020/04/16/smarter-living/coronavirus-introverts-lonely.html",
+      "uri": "nyt://article/51aa5d58-f8ec-5832-90b0-7b4d7d1683c5",
+      "byline": "By Adam Grant",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T17:12:12-04:00",
+      "created_date": "2020-04-16T21:35:29-04:00",
+      "published_date": "2020-04-16T21:35:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Loneliness",
+        "Psychology and Psychologists",
+        "Emotions",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-grant-introvert/00sl-grant-introvert-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dominic Kesterton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-grant-introvert/00sl-grant-introvert-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dominic Kesterton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-grant-introvert/00sl-grant-introvert-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dominic Kesterton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-grant-introvert/00sl-grant-introvert-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dominic Kesterton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-grant-introvert/00sl-grant-introvert-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dominic Kesterton"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VDhAfV"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "Roommates or Partner Getting on Your Nerves? Read This",
+      "abstract": "Talk about things early and often so they don’t boil over.",
+      "url": "https://www.nytimes.com/2020/04/16/smarter-living/coronavirus-roommate-fight-home.html",
+      "uri": "nyt://article/ecc0fa0c-8ab9-5a56-bda9-3c95dab736ad",
+      "byline": "By Anna Goldfarb",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T17:12:14-04:00",
+      "created_date": "2020-04-16T10:19:51-04:00",
+      "published_date": "2020-04-16T10:19:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dating and Relationships",
+        "Anxiety and Stress",
+        "Marriages",
+        "Empathy"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-virus-conflict/00sl-virus-conflict-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amélie Fontaine"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-virus-conflict/00sl-virus-conflict-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amélie Fontaine"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-virus-conflict/00sl-virus-conflict-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amélie Fontaine"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-virus-conflict/00sl-virus-conflict-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amélie Fontaine"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/smarter-living/00sl-virus-conflict/00sl-virus-conflict-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amélie Fontaine"
+        }
+      ],
+      "short_url": "https://nyti.ms/34GRQn0"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "Eating Is Weird Now. Here’s How to (Kind of) Get Back to Normal.",
+      "abstract": "If the coronavirus has busted your diet — and you’ve busted out the fat pants — here are some tips to get back on track.",
+      "url": "https://www.nytimes.com/2020/04/15/smarter-living/coronavirus-eating-advice.html",
+      "uri": "nyt://article/19c9b00e-bfac-55d9-b467-f33a8892136e",
+      "byline": "By Tim Herrera",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T17:12:09-04:00",
+      "created_date": "2020-04-15T12:02:24-04:00",
+      "published_date": "2020-04-15T12:02:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Food",
+        "Diet and Nutrition",
+        "Quarantines",
+        "Anxiety and Stress",
+        "Supermarkets and Grocery Stores"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/14/smarter-living/14sl-coronavirus-food/14sl-coronavirus-food-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1219,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/14/smarter-living/14sl-coronavirus-food/14sl-coronavirus-food-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/14/smarter-living/14sl-coronavirus-food/14sl-coronavirus-food-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/14/smarter-living/14sl-coronavirus-food/14sl-coronavirus-food-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/14/smarter-living/14sl-coronavirus-food/14sl-coronavirus-food-articleInline.jpg",
+          "format": "Normal",
+          "height": 113,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Vdt37g"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "A Visual Trek Through the Sweltering Jungle: In Search of Colombia’s ‘Lost City’",
+      "abstract": "Ciudad Perdida, an ancient city that predates Machu Picchu by several hundred years, has become one of South America’s most rewarding adventure destinations.",
+      "url": "https://www.nytimes.com/2020/04/15/travel/colombia-lost-city-ciudad-perdida.html",
+      "uri": "nyt://article/c67b04e2-c31c-57c8-a2f2-9f544c05422e",
+      "byline": "By Stephen Hiltner",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T05:47:13-04:00",
+      "created_date": "2020-04-15T05:00:48-04:00",
+      "published_date": "2020-04-15T05:00:48-04:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Travel and Vacations",
+        "Archaeology and Anthropology",
+        "Eco-Tourism",
+        "Kidnapping and Hostages"
+      ],
+      "org_facet": [
+        "National Liberation Army (Colombia)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Colombia",
+        "Bogota (Colombia)",
+        "Machu Picchu (Peru)",
+        "South America"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/travel/15travel-colombia-promo2/15travel-colombia-promo2-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Hiltner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/travel/15travel-colombia-promo2/15travel-colombia-promo2-thumbStandard-v4.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Hiltner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/travel/15travel-colombia-promo2/15travel-colombia-promo2-thumbLarge-v4.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Hiltner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/travel/15travel-colombia-promo2/15travel-colombia-promo2-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Hiltner/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/15/travel/15travel-colombia-promo2/15travel-colombia-promo2-articleInline-v4.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Hiltner/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34E5A2b"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "What Is the Sound of a Theater Season Interrupted?",
+      "abstract": "A listening guide to the cast albums, playlists and video footprints left behind by 18 Broadway and Off Broadway musicals.",
+      "url": "https://www.nytimes.com/2020/04/15/theater/broadway-cast-album-guide.html",
+      "uri": "nyt://article/6068c05e-fd01-5461-95ea-8c7c70b54bdf",
+      "byline": "By Ben Brantley and Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T05:47:12-04:00",
+      "created_date": "2020-04-15T10:15:09-04:00",
+      "published_date": "2020-04-15T10:15:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Your cast album starter guide",
+      "des_facet": [
+        "Music",
+        "Theater"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Byrne, David",
+        "Elliott, Marianne",
+        "Jackson, Michael R",
+        "Tesori, Jeanine",
+        "McPherson, Conor"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/arts/14castalbums-season-promo/14castalbums-season-promo-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/arts/14castalbums-season-promo/14castalbums-season-promo-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/arts/14castalbums-season-promo/14castalbums-season-promo-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/arts/14castalbums-season-promo/14castalbums-season-promo-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/14/arts/14castalbums-season-promo/14castalbums-season-promo-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Derballa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cqJbYR"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Rockefeller Center’s Art Deco Marvel: A Virtual Tour",
+      "abstract": "When the complex opened in the 1930s, some mocked it. Now it’s a symbol of New York’s glory. Our critic chats with the historian Daniel Okrent.",
+      "url": "https://www.nytimes.com/2020/04/15/arts/design/rockefeller-center-virtual-tour.html",
+      "uri": "nyt://article/be1b4c75-40fc-54db-b49f-d9cfd8e9b73e",
+      "byline": "By Michael Kimmelman",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T05:47:13-04:00",
+      "created_date": "2020-04-15T05:00:50-04:00",
+      "published_date": "2020-04-15T05:00:50-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic’s Notebook",
+      "des_facet": [
+        "Art Deco",
+        "Architecture",
+        "Sculpture",
+        "Pedestrian Malls",
+        "Real Estate (Commercial)"
+      ],
+      "org_facet": [
+        "Museum of Modern Art"
+      ],
+      "per_facet": [
+        "Okrent, Daniel",
+        "Rockefeller Family",
+        "Rockefeller, John D"
+      ],
+      "geo_facet": [
+        "New York City",
+        "Rockefeller Center (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/arts/15kimmelman-rockcenter1/15kimmelman-rockcenter1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/arts/15kimmelman-rockcenter1/15kimmelman-rockcenter1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/arts/15kimmelman-rockcenter1/15kimmelman-rockcenter1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/arts/15kimmelman-rockcenter1/15kimmelman-rockcenter1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/arts/15kimmelman-rockcenter1/15kimmelman-rockcenter1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vincent Tullo for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2xtGG92"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Your Quarantine Cooking Needs Condiments",
+      "abstract": "Chile crisp is a secret weapon in the war on bland.",
+      "url": "https://www.nytimes.com/2020/04/13/magazine/chile-crisp-tofu-green-bean-recipe.html",
+      "uri": "nyt://article/a38e9d7a-d024-5d41-a339-5596a8d342b6",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T05:47:09-04:00",
+      "created_date": "2020-04-13T05:00:05-04:00",
+      "published_date": "2020-04-13T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Eat ",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Chinese Food (Cuisine)",
+        "Condiments",
+        "Tofu"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/magazine/19mag-eat/19mag-eat-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1535,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tofu and green beans with chile crisp.",
+          "copyright": "Jenny Huang for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophie Leng."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/magazine/19mag-eat/19mag-eat-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tofu and green beans with chile crisp.",
+          "copyright": "Jenny Huang for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophie Leng."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/magazine/19mag-eat/19mag-eat-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tofu and green beans with chile crisp.",
+          "copyright": "Jenny Huang for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophie Leng."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/magazine/19mag-eat/19mag-eat-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tofu and green beans with chile crisp.",
+          "copyright": "Jenny Huang for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophie Leng."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/19/magazine/19mag-eat/19mag-eat-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tofu and green beans with chile crisp.",
+          "copyright": "Jenny Huang for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophie Leng."
+        }
+      ],
+      "short_url": "https://nyti.ms/2y6WVce"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Masks of the Upper West Side",
+      "abstract": "The various masks of the Upper West Side",
+      "url": "https://www.nytimes.com/2020/04/14/nyregion/coronavirus-nyc-uws-masks.html",
+      "uri": "nyt://article/77d98d99-41d1-570f-bb49-6530a9ea5ba2",
+      "byline": "By Joan Chiverton",
+      "item_type": "Article",
+      "updated_date": "2020-04-18T05:47:11-04:00",
+      "created_date": "2020-04-14T21:19:42-04:00",
+      "published_date": "2020-04-14T21:19:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shutdowns (Institutional)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/nyregion/chiverton-remix-17/chiverton-remix-17-superJumbo.png",
+          "format": "superJumbo",
+          "height": 733,
+          "width": 445,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/nyregion/chiverton-remix-17/chiverton-remix-17-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/nyregion/chiverton-remix-17/chiverton-remix-17-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/nyregion/chiverton-remix-17/chiverton-remix-17-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/nyregion/chiverton-remix-17/chiverton-remix-17-articleInline.png",
+          "format": "Normal",
+          "height": 313,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2XDRJqW"
+    },
+    {
+      "section": "parenting",
+      "subsection": "guides",
+      "title": "The Types of Plastics Families Should Avoid",
+      "abstract": "If it seems like plastic is everywhere, that’s because it is. But there are easy ways to limit your exposure.",
+      "url": "https://www.nytimes.com/article/plastics-to-avoid.html",
+      "uri": "nyt://article/d6d58b31-ddd9-56b5-af6e-ee1e2ea3212f",
+      "byline": "By Alice Callahan",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T18:55:23-04:00",
+      "created_date": "2020-04-17T18:55:23-04:00",
+      "published_date": "2020-04-17T18:55:23-04:00",
+      "material_type_facet": "",
+      "kicker": "Parenting Guide",
+      "des_facet": [
+        "Food",
+        "Baby Foods",
+        "Research",
+        "Babies and Infants",
+        "Hazardous and Toxic Substances",
+        "Parenting",
+        "Chemicals",
+        "Children and Childhood",
+        "Toys",
+        "Pregnancy and Childbirth",
+        "Containers and Packaging"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/09/18/multimedia/parenting-plastics/parenting-plastics-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2047,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/09/18/multimedia/parenting-plastics/parenting-plastics-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/09/18/multimedia/parenting-plastics/parenting-plastics-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/09/18/multimedia/parenting-plastics/parenting-plastics-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/09/18/multimedia/parenting-plastics/parenting-plastics-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ViEqLe"
+    },
+    {
+      "section": "parenting",
+      "subsection": "big-kid",
+      "title": "A New Weight Watchers App for Kids Raises Concerns",
+      "abstract": "Kurbo by WW promises to fight childhood obesity by teaching kids aged 8 to 17 healthy eating strategies — but is it ever a good idea to teach kids how to diet?",
+      "url": "https://www.nytimes.com/2020/04/17/parenting/big-kid/weight-watchers-kids.html",
+      "uri": "nyt://article/21fed77a-15b8-5f89-b553-0c5b5ecd2924",
+      "byline": "By Virginia Sole-Smith",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T11:05:23-04:00",
+      "created_date": "2020-04-17T11:05:23-04:00",
+      "published_date": "2020-04-17T11:05:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Anorexia Nervosa",
+        "Weight",
+        "Eating Disorders",
+        "Mobile Applications",
+        "Diet and Nutrition",
+        "Children and Childhood",
+        "Food",
+        "Parenting"
+      ],
+      "org_facet": [
+        "Weight Watchers International Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/08/16/multimedia/16-parenting-kurbo/16-parenting-kurbo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Kurbo by WW app prompted a backlash on social media this week, as thousands of users voiced their concerns.",
+          "copyright": "Illustration by The New York Times; Screenshots via Kurbo by WW; Getty"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/08/16/multimedia/16-parenting-kurbo/16-parenting-kurbo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Kurbo by WW app prompted a backlash on social media this week, as thousands of users voiced their concerns.",
+          "copyright": "Illustration by The New York Times; Screenshots via Kurbo by WW; Getty"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/08/16/multimedia/16-parenting-kurbo/16-parenting-kurbo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Kurbo by WW app prompted a backlash on social media this week, as thousands of users voiced their concerns.",
+          "copyright": "Illustration by The New York Times; Screenshots via Kurbo by WW; Getty"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/08/16/multimedia/16-parenting-kurbo/16-parenting-kurbo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Kurbo by WW app prompted a backlash on social media this week, as thousands of users voiced their concerns.",
+          "copyright": "Illustration by The New York Times; Screenshots via Kurbo by WW; Getty"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/08/16/multimedia/16-parenting-kurbo/16-parenting-kurbo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Kurbo by WW app prompted a backlash on social media this week, as thousands of users voiced their concerns.",
+          "copyright": "Illustration by The New York Times; Screenshots via Kurbo by WW; Getty"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cvykgd"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Asthma Is Absent Among Top Covid-19 Risk Factors, Early Data Shows",
+      "abstract": "Despite warnings that asthmatics were at higher risk for severe illness from the coronavirus, asthma is showing up in only about five percent of New York State’s fatal Covid cases.",
+      "url": "https://www.nytimes.com/2020/04/16/health/coronavirus-asthma-risk.html",
+      "uri": "nyt://article/2288e6a6-8649-503d-a0e5-f0d8492643c4",
+      "byline": "By Danny Hakim",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T16:51:46-04:00",
+      "created_date": "2020-04-16T10:35:51-04:00",
+      "published_date": "2020-04-16T10:35:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Asthma",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rochelle Allen, right, a respiratory therapist in Oakland, Calif., listening to the lungs of patient with asthma during a home visit last month.",
+          "copyright": "Alexandra Hootnick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rochelle Allen, right, a respiratory therapist in Oakland, Calif., listening to the lungs of patient with asthma during a home visit last month.",
+          "copyright": "Alexandra Hootnick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rochelle Allen, right, a respiratory therapist in Oakland, Calif., listening to the lungs of patient with asthma during a home visit last month.",
+          "copyright": "Alexandra Hootnick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rochelle Allen, right, a respiratory therapist in Oakland, Calif., listening to the lungs of patient with asthma during a home visit last month.",
+          "copyright": "Alexandra Hootnick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rochelle Allen, right, a respiratory therapist in Oakland, Calif., listening to the lungs of patient with asthma during a home visit last month.",
+          "copyright": "Alexandra Hootnick for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2wNMs5g"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Disposable N95 Masks Can Be Decontaminated, Researchers Confirm",
+      "abstract": "Several methods are effective at killing the new coronavirus on N95 masks — primary protective gear for health care workers — for two or three rounds of use.",
+      "url": "https://www.nytimes.com/2020/04/16/health/n95-masks-decontaminated-coronavirus.html",
+      "uri": "nyt://article/6d698928-08b4-53cb-b2d4-9740c4955cdf",
+      "byline": "By James Gorman",
+      "item_type": "Article",
+      "updated_date": "2020-04-17T11:16:34-04:00",
+      "created_date": "2020-04-16T12:44:08-04:00",
+      "published_date": "2020-04-16T12:44:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Masks",
+        "Shortages",
+        "Research",
+        "Coronavirus (2019-nCoV)",
+        "Ultraviolet Light",
+        "Hydrogen Peroxide",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "National Institutes of Health",
+        "National Institute of Allergy and Infectious Diseases"
+      ],
+      "per_facet": [
+        "Munster, Vincent",
+        "Kumar, Anand"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-MASKS/merlin_170843634_17a470f5-5a4d-4ac2-ada4-758715aaffc9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UV lights for disinfecting masks, which would hang on clothespins, at the University of Nebraska Medical Center in Omaha.",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-MASKS/16VIRUS-MASKS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UV lights for disinfecting masks, which would hang on clothespins, at the University of Nebraska Medical Center in Omaha.",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-MASKS/16VIRUS-MASKS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UV lights for disinfecting masks, which would hang on clothespins, at the University of Nebraska Medical Center in Omaha.",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-MASKS/16VIRUS-MASKS-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UV lights for disinfecting masks, which would hang on clothespins, at the University of Nebraska Medical Center in Omaha.",
+          "copyright": "Calla Kessler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-MASKS/16VIRUS-MASKS-articleInline.jpg",
+          "format": "Normal",
+          "height": 138,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UV lights for disinfecting masks, which would hang on clothespins, at the University of Nebraska Medical Center in Omaha.",
+          "copyright": "Calla Kessler/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VdBdwl"
+    }
+  ]
+}
