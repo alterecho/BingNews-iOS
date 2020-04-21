@@ -13,11 +13,27 @@ enum URLs {
 }
 
 extension URLs {
-    enum NYT {
-        static let base = "https://api.nytimes.com/svc/"
-        
-        static func topStories() -> String {
-            return "topstories/v2/arts.json?api-key=\(Config.key)"
+    
+    static var baseURLString: String = {
+        guard let urlString = Bundle.main.infoDictionary?[Config.PListKey.baseURL.rawValue] as? String else {
+            fatalError("base url not found")
         }
+        
+        return urlString
+    }()
+    
+    static var baseURL: URL = {
+        guard let url = URL(string: baseURLString) else {
+            fatalError("invalid base url \(baseURLString)")
+        }
+        
+        return url
+    }()
+
+    
+    enum NYT {
+        static var topStoriesURL: URL = {
+            return URLs.baseURL.appendingPathComponent("topstories/v2/arts.json?api-key=\(Config.key)")
+        } ()
     }    
 }

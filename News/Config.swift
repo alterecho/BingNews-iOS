@@ -10,6 +10,10 @@ import Foundation
 
 class Config {
     
+    enum PListKey: String {
+        case baseURL = "base url"
+    }
+    
     static var shared = Config()
     
     static let key = "VByuApaz7ulLejdZGtMMw94EFQltJsPj"
