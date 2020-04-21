@@ -30,10 +30,27 @@ extension URLs {
         return url
     }()
 
+    static var baseURLComponents: URLComponents = {
+        guard let url = URLComponents(string: baseURLString) else {
+            fatalError("invalid base url \(baseURLString)")
+        }
+        
+        return url
+    }()
+
     
     enum NYT {
         static var topStoriesURL: URL = {
-            return URLs.baseURL.appendingPathComponent("topstories/v2/arts.json?api-key=\(Config.key)")
+            var urlComponents = URLs.baseURLComponents
+            urlComponents.path = "/svc/topstories/v2/arts.json"
+            urlComponents.queryItems = [
+                URLQueryItem(name: "api-key", value: Config.key)
+            ]
+            guard let url = urlComponents.url else {
+                fatalError("unable to form url")
+            }
+            
+            return url
         } ()
     }    
 }

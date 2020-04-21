@@ -17,6 +17,13 @@ class MainPageInteractor: MainPageInteractorInput {
     
     
     let apiWorker = MainPageAPIWorker()
+    let mappingWorker = MainPageMappingWorker()
+    
+    private var output: MainPagePresenterInput?
+    
+    init(output: MainPagePresenterInput) {
+        self.output = output
+    }
     
     func start() {
         displayLatest()
@@ -31,10 +38,14 @@ class MainPageInteractor: MainPageInteractorInput {
     func displayLatest() {
         cancellable = apiWorker.fetchLatest(category: .home).receive(on: DispatchQueue.main).sink(receiveCompletion: { (completion) in
             print(completion)
-        }) { (result) in
+        }) { [weak self] (result) in
             print(result)
+            self?.cancellable = self?.mappingWorker.map(result: result).receive(on: DispatchQueue.main).sink(receiveCompletion: { (completion) in
+                print(completion)
+            }, receiveValue: { (newsItems) in
+                self?.output?.display(newsItems: newsItems)
+            })
         }
-
     }
     
     

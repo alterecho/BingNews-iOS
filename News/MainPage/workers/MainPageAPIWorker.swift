@@ -15,7 +15,7 @@ protocol MainPageAPIWorkerProtocol {
 }
 
 enum Error: Swift.Error {
-    case invalidResponse(Int?)
+    case invalidResponse(String?)
     case invalidURL(String)
     case common(String)
 }
@@ -28,15 +28,10 @@ class MainPageAPIWorker: MainPageAPIWorkerProtocol {
         
         return Future<NYTResult, Error> { [weak self] promise in
             self?.cancellable?.cancel()
-            let urlString = URLs.NYT.base + URLs.NYT.topStories()
-            guard let url = URL(string: urlString) else {
-                promise(.failure(.invalidURL(urlString)))
-                return
-            }
-            let request = URLRequest(url: url)
+            let request = URLRequest(url: URLs.NYT.topStoriesURL)
             self?.cancellable = URLSession.shared.dataTaskPublisher(for: request).tryMap { output throws -> Data in
                 if let response = output.response as? HTTPURLResponse, response.statusCode != 200 {
-                    throw Error.invalidResponse(response.statusCode)
+                    throw Error.invalidResponse("\(response.description) (\(response.statusCode))")
                 }
                 return output.data
             }.decode(type: NYTResult.self, decoder: JSONDecoder()).eraseToAnyPublisher()
