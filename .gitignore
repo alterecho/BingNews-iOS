@@ -4,3 +4,4 @@ xcuserdata
 */project.xcworkspace
 *.pbxproj
 *.xcworkspace
+*/xcshareddata
