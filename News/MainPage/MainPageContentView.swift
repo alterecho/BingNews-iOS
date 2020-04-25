@@ -7,46 +7,40 @@
 //
 
 import SwiftUI
+import Combine
 
-struct MainPageContentView: View, MainPagePresenterOutput {
-    
-    struct ViewModel {
-        @State var showAlert: Bool = false
-    }
-    
-    func update(vm: MainPageVM) {
-        
-    }
-    
+struct MainPageContentView: View {
+            
     let output: MainPageInteractorInput
-    
-    var vm: ViewModel = ViewModel()
-    
+    @ObservedObject private var vm: MainPageVM
+        
+    init(vm: MainPageVM, output: MainPageInteractorInput) {
+        self.vm = vm
+        self.output = output
+    }
+        
     var body: some View {
-        VStack {
-            Text("Hello")
+        return VStack {
+            
+            Text("Hello \(arc4random() % 10) \(self.vm.showAlert ? "true" : "false")")
                 .onAppear {
                     self.output.start()
             }
             
             Button(action: {
+                self.vm.alertVM = AlertVM(title: "Hello \(arc4random() % 10)", message: "djsv \(arc4random() % 10)", primaryButtonTitle: "ok")
 //                self.output.displayLatest()
-//                self.vm = ViewModel(showAlert: true)
-                self.vm.showAlert = true
             }) {
                 HStack {
                     Image(systemName: "repeat")
                     Text("Refresh")
                 }
             }
-                .alert(isPresented: vm.$showAlert) { () -> Alert in
-                Alert(title: Text("Title"), message: Text("message"), dismissButton: .default(Text("label"), action: {
-                    print("action")
-                }
-                    )
-                )
+
+            .alert(isPresented: vm.binding(path: \MainPageVM.showAlert, default: false)) { () -> Alert in
+                Alert(vm: vm.alertVM)
             }
-            
         }
+        
     }
 }

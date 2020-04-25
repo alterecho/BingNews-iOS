@@ -23,7 +23,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
                 
         let presenter = MainPagePresenter()
         let interactor = MainPageInteractor(output: presenter)
-        let contentView = MainPageContentView(output: interactor)
+        let contentView = MainPageContentView(vm: presenter.vm, output: interactor)
         
 
         // Use a UIHostingController as window root view controller.

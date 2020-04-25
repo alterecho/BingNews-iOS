@@ -19,14 +19,17 @@ class MainPageInteractor: MainPageInteractorInput {
     let apiWorker = MainPageAPIWorker()
     let mappingWorker = MainPageMappingWorker()
     
-    private var output: MainPagePresenterInput?
+    private var output: MainPagePresenterInput
     
     init(output: MainPagePresenterInput) {
         self.output = output
     }
     
     func start() {
-        displayLatest()
+//        displayLatest()
+//        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+//            self.output.showAlert(title: "cxv", message: "adsfddu")
+//        }
     }
     
     func selected(category: Category) {
@@ -36,6 +39,8 @@ class MainPageInteractor: MainPageInteractorInput {
     private var cancellable: Cancellable?
     
     func displayLatest() {
+        self.output.showAlert(title: "cxv", message: "adsfddu")
+        return ()
         cancellable = apiWorker.fetchLatest(category: .home).receive(on: DispatchQueue.main).sink(receiveCompletion: { (completion) in
             print(completion)
         }) { [weak self] (result) in
@@ -43,7 +48,7 @@ class MainPageInteractor: MainPageInteractorInput {
             self?.cancellable = self?.mappingWorker.map(result: result).receive(on: DispatchQueue.main).sink(receiveCompletion: { (completion) in
                 print(completion)
             }, receiveValue: { (newsItems) in
-                self?.output?.display(newsItems: newsItems)
+                self?.output.display(newsItems: newsItems)
             })
         }
     }

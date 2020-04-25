@@ -6,13 +6,27 @@
 //  Copyright © 2020 v.a.jayachandran. All rights reserved.
 //
 
-import Foundation
+import Combine
 
-class MainPageVM {
-    var newsItems: [NewsItem]
-    var showCategories: Bool = false
+struct AlertVM {
+    var title: String = ""
+    var message: String = ""
+    var primaryButtonTitle: String = ""
+    var secondaryButtonTitle: String = ""
+}
+
+final class MainPageVM: ObservableObject, Bindable {
     
-    init(newsItems: [NewsItem]) {
-        self.newsItems = newsItems
+    @Published var showAlert: Bool = false
+    @Published var newsItems: [NewsItem] = []
+    @Published var showCategories: Bool = false
+    var alertVM: AlertVM = AlertVM() {
+        didSet {
+            showAlert = true
+        }
     }
+    
+    init() {
+    }
+    
 }

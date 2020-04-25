@@ -11,21 +11,20 @@ import Foundation
 protocol MainPagePresenterInput: class {
     func showCategories()
     func display(newsItems: [NewsItem])
+    func showAlert(title: String, message: String)
     
     init()
 }
 
 protocol MainPagePresenterOutput {
-    func update(vm: MainPageVM)
 }
 
 class MainPagePresenter: MainPagePresenterInput {
     
-    private var vm: MainPageVM
-    private var output: MainPagePresenterOutput?
+    private(set) var vm: MainPageVM
     
     required init() {
-        vm = MainPageVM(newsItems: [])
+        vm = MainPageVM()
     }
     
     func showCategories() {
@@ -34,6 +33,11 @@ class MainPagePresenter: MainPagePresenterInput {
     
     func display(newsItems: [NewsItem]) {
         vm.newsItems = newsItems
-        output?.update(vm: vm)
+    }
+    
+    func showAlert(title: String, message: String) {
+        vm.alertVM.message = message
+        vm.alertVM.title = title
+        vm.alertVM.buttonTitle = "okk"
     }
 }
