@@ -1,1 +1,1 @@
-java -jar wiremock.jar
+java -jar wiremock.jar --verbose

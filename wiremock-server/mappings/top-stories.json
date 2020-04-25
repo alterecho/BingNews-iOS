@@ -3,12 +3,12 @@
         {
             "request": {
                 "method": "GET",
-                "urlPattern": "/svc/topstories/v2",
-                "queryParameters": {
-                    "aas": {
-                       "matches": ".*"
-                    }
-                }
+                "urlPattern": "/svc/topstories/v2/[a-zA-Z0-9.]*\\?.*"
+                // "queryParameters": {
+                //     "[a-z]*": {
+                //        "matches": "ANY"
+                //     }
+                // }
             },
             "response": {
                 "status": 200,
