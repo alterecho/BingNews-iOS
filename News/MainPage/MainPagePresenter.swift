@@ -38,6 +38,7 @@ class MainPagePresenter: MainPagePresenterInput {
     func showAlert(title: String, message: String) {
         vm.alertVM.message = message
         vm.alertVM.title = title
-        vm.alertVM.buttonTitle = "okk"
+        vm.alertVM.primaryButtonTitle = "okk"
+        vm.showAlert = true
     }
 }
