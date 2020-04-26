@@ -9,6 +9,15 @@
 import SwiftUI
 import Combine
 
+struct NewsItemCell: View {
+    
+    var newsItem: NewsItem
+    
+    var body: some View {
+        return Text("item \(newsItem.title)").lineLimit(1)
+    }
+}
+
 struct MainPageContentView: View {
             
     let output: MainPageInteractorInput
@@ -25,6 +34,11 @@ struct MainPageContentView: View {
             Text("Hello \(arc4random() % 10) \(self.vm.showAlert ? "true" : "false")")
                 .onAppear {
                     self.output.start()
+            }
+            
+            List(vm.newsItems, id: \.title) { item -> NewsItemCell in
+                let cell = NewsItemCell(newsItem: item)
+                return cell
             }
             
             Button(action: {

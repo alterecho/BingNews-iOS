@@ -8,7 +8,8 @@
 
 import Foundation
 
-struct NewsItem {
+struct NewsItem: Identifiable {
+    var id = UUID()
     var title: String
     var content: String
     var url: URL?
