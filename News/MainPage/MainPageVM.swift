@@ -9,10 +9,10 @@
 import Combine
 
 struct AlertVM {
-    var title: String = ""
-    var message: String = ""
-    var primaryButtonTitle: String = ""
-    var secondaryButtonTitle: String = ""
+    var title: String?
+    var message: String?
+    var primaryButtonTitle: String?
+    var secondaryButtonTitle: String?
 }
 
 final class MainPageVM: ObservableObject, Bindable {

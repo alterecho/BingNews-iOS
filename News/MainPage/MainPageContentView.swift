@@ -14,7 +14,7 @@ struct NewsItemCell: View {
     var newsItem: NewsItem
     
     var body: some View {
-        return Text("item \(newsItem.title)").lineLimit(1)
+        return Text("\(newsItem.title)").lineLimit(1)
     }
 }
 
@@ -31,18 +31,21 @@ struct MainPageContentView: View {
     var body: some View {
         return VStack {
             
-            Text("Hello \(arc4random() % 10) \(self.vm.showAlert ? "true" : "false")")
-                .onAppear {
-                    self.output.start()
+            NavigationView {
+                
+                List(vm.newsItems) { item in
+                    NavigationLink(destination: NewsDetailsContentView()) {
+                        NewsItemCell(newsItem: item)
+                        
+                    }
+                }
+                .navigationBarTitle("Main Page")
+
             }
             
-            List(vm.newsItems, id: \.title) { item -> NewsItemCell in
-                let cell = NewsItemCell(newsItem: item)
-                return cell
-            }
             
             Button(action: {
-                self.vm.alertVM = AlertVM(title: "Hello \(arc4random() % 10)", message: "djsv \(arc4random() % 10)", primaryButtonTitle: "ok")
+                self.vm.alertVM = AlertVM(title: "Debug \(arc4random() % 10)", message: "djsv \(arc4random() % 10)", primaryButtonTitle: "ok")
 //                self.output.displayLatest()
             }) {
                 HStack {
@@ -50,10 +53,19 @@ struct MainPageContentView: View {
                     Text("Refresh")
                 }
             }
-
+                
+                
             .alert(isPresented: vm.binding(path: \MainPageVM.showAlert, default: false)) { () -> Alert in
-                Alert(vm: vm.alertVM)
+                Alert(vm: vm.alertVM, primaryAction: {
+                    self.vm.showAlert = false
+                })
             }
+                
+            .onAppear {
+                self.output.start()
+            }
+            
+            
         }
         
     }
