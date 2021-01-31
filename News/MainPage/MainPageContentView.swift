@@ -34,9 +34,8 @@ struct MainPageContentView: View {
             NavigationView {
                 
                 List(vm.newsItems) { item in
-                    NavigationLink(destination: NewsDetailsContentView()) {
-                        NewsItemCell(newsItem: item)
-                        
+                    NewsItemCell(newsItem: item).onTapGesture {
+                        output.
                     }
                 }
                 .navigationBarTitle("Main Page")
@@ -45,8 +44,7 @@ struct MainPageContentView: View {
             
             
             Button(action: {
-                self.vm.alertVM = AlertVM(title: "Debug \(arc4random() % 10)", message: "djsv \(arc4random() % 10)", primaryButtonTitle: "ok")
-//                self.output.displayLatest()
+                self.output.displayLatest()
             }) {
                 HStack {
                     Image(systemName: "repeat")

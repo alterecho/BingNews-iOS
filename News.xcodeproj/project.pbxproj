@@ -115,6 +115,7 @@
 			children = (
 				F166C9D724473E9000C84C93 /* Notes.txt */,
 				F166C9B12446CFAB00C84C93 /* AppDelegate.swift */,
+				F118744B2452EFCE00AE2F1D /* Utilities.swift */,
 				F166C9B32446CFAB00C84C93 /* SceneDelegate.swift */,
 				F166C9B52446CFAB00C84C93 /* ContentView.swift */,
 				F166C9DB244743B700C84C93 /* Config.swift */,
@@ -122,7 +123,6 @@
 				F166C9D0244710BF00C84C93 /* APIs.swift */,
 				F118744D2452F0A300AE2F1D /* Alert+Ext.swift */,
 				F194381D250E6C81004531C5 /* Models */,
-				F118744B2452EFCE00AE2F1D /* Utilities.swift */,
 				F166C9C924470F4500C84C93 /* MainPage */,
 				F11874512455285E00AE2F1D /* NewsDetailsPage */,
 				F166C9C524470BFF00C84C93 /* names.json */,

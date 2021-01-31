@@ -9,17 +9,17 @@
 import Foundation
 import Combine
 
-protocol MainPageInteractorInput: MainPageUseCase {
-    func start()
-}
-
-class MainPageInteractor: MainPageInteractorInput {
-    
-    
+class MainPageInteractor: MainPageUseCase.Interactor {
+    var output: MainPageUseCase.Presenter
     let apiWorker = MainPageAPIWorker()
     let mappingWorker = MainPageMappingWorker()
+
     
-    private var output: MainPagePresenterInput
+    func selected(newsItem: NewsItem) {
+        <#code#>
+    }
+    
+    
     
     init(output: MainPagePresenterInput) {
         self.output = output

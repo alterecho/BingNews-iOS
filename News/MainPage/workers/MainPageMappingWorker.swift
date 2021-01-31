@@ -8,10 +8,6 @@
 
 import Combine
 
-protocol MainPageMappingWorkerProtocol {
-    func map(result: NYTResult) -> Future<[NewsItem], Never>
-}
-
 class MainPageMappingWorker: MainPageMappingWorkerProtocol {
     func map(result: NYTResult) -> Future<[NewsItem], Never> {
         return Future<[NewsItem], Never> { promise in
