@@ -30,9 +30,7 @@ struct MainPageContentView: View {
         
     var body: some View {
         return VStack {
-            
             NavigationView {
-                
                 List(vm.newsItems) { item in
                     NavigationLink(destination: NewsDetailsContentView()) {
                         NewsItemCell(newsItem: item)
@@ -40,10 +38,7 @@ struct MainPageContentView: View {
                     }
                 }
                 .navigationBarTitle("Main Page")
-
             }
-            
-            
             Button(action: {
                 self.vm.alertVM = AlertVM(title: "Debug \(arc4random() % 10)", message: "djsv \(arc4random() % 10)", primaryButtonTitle: "ok")
 //                self.output.displayLatest()
@@ -53,8 +48,6 @@ struct MainPageContentView: View {
                     Text("Refresh")
                 }
             }
-                
-                
             .alert(isPresented: vm.binding(path: \MainPageVM.showAlert, default: false)) { () -> Alert in
                 Alert(vm: vm.alertVM, primaryAction: {
                     self.vm.showAlert = false
@@ -63,9 +56,7 @@ struct MainPageContentView: View {
                 
             .onAppear {
                 self.output.start()
-            }
-            
-            
+            }            
         }
         
     }

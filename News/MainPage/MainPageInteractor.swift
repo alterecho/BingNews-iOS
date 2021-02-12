@@ -32,6 +32,10 @@ class MainPageInteractor: MainPageInteractorInput {
     func selected(category: Category) {
         
     }
+    
+    func selected(newsItem: NewsItem) {
+        
+    }
 
     private var cancellable: Cancellable?
     

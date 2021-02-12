@@ -10,5 +10,6 @@ import Foundation
 
 protocol MainPageUseCase {
     func selected(category: Category)
+    func selected(newsItem: NewsItem)
     func displayLatest()
 }
