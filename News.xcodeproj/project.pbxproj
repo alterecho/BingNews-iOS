@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B127D7E925D766CA006EAA2D /* SheetListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B127D7E825D766CA006EAA2D /* SheetListView.swift */; };
 		F10EACBC244D2DE100DF4BF1 /* MainPageMappingWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10EACBB244D2DE100DF4BF1 /* MainPageMappingWorker.swift */; };
 		F10EACBF244D302100DF4BF1 /* MainPageVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10EACBE244D302100DF4BF1 /* MainPageVM.swift */; };
 		F118744C2452EFCE00AE2F1D /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = F118744B2452EFCE00AE2F1D /* Utilities.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B127D7E825D766CA006EAA2D /* SheetListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetListView.swift; sourceTree = "<group>"; };
 		F10EACBB244D2DE100DF4BF1 /* MainPageMappingWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageMappingWorker.swift; sourceTree = "<group>"; };
 		F10EACBE244D302100DF4BF1 /* MainPageVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageVM.swift; sourceTree = "<group>"; };
 		F118744B2452EFCE00AE2F1D /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
@@ -75,6 +77,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B127D7EB25D766FD006EAA2D /* other-views */ = {
+			isa = PBXGroup;
+			children = (
+				B127D7E825D766CA006EAA2D /* SheetListView.swift */,
+			);
+			path = "other-views";
+			sourceTree = "<group>";
+		};
 		F10EACBD244D2F2300DF4BF1 /* workers */ = {
 			isa = PBXGroup;
 			children = (
@@ -151,6 +161,7 @@
 				F10EACBE244D302100DF4BF1 /* MainPageVM.swift */,
 				F166C9CA2447103400C84C93 /* MainPageInteractor.swift */,
 				F166C9D2244736A500C84C93 /* MainPagePresenter.swift */,
+				B127D7EB25D766FD006EAA2D /* other-views */,
 				F10EACBD244D2F2300DF4BF1 /* workers */,
 			);
 			path = MainPage;
@@ -249,6 +260,7 @@
 				F166C9DC244743B700C84C93 /* Config.swift in Sources */,
 				F166C9CB2447103400C84C93 /* MainPageInteractor.swift in Sources */,
 				F11874502455285300AE2F1D /* NewsDetailsContentView.swift in Sources */,
+				B127D7E925D766CA006EAA2D /* SheetListView.swift in Sources */,
 				F166C9DA2447435D00C84C93 /* Category.swift in Sources */,
 				F118744C2452EFCE00AE2F1D /* Utilities.swift in Sources */,
 				F166C9CF2447109100C84C93 /* URLs.swift in Sources */,
