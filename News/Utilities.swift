@@ -9,17 +9,15 @@
 import SwiftUI
 
 protocol Bindable: AnyObject {
-    func binding<T>(path: ReferenceWritableKeyPath<Self, T>, default: T) -> Binding<T>
+    static func createBinding<T>(for obj: Self, path: ReferenceWritableKeyPath<Self, T>, default: T) -> Binding<T>
 }
 
 extension Bindable {
-    
-    func binding<T>(path: ReferenceWritableKeyPath<Self, T>, default: T) -> Binding<T> {
-        
-        let b = Binding<T>(get: { [weak self]() -> T in
-            return self?[keyPath: path] ?? `default`
-        }) { [weak self] (obj) in
-            self?[keyPath: path] = obj
+    static func createBinding<T>(for obj: Self, path: ReferenceWritableKeyPath<Self, T>, default: T) -> Binding<T> {
+        let b = Binding<T>(get: { [weak obj]() -> T in
+            return obj?[keyPath: path] ?? `default`
+        }) { [weak obj] (value) in
+            obj?[keyPath: path] = value
         }
         
         return b
