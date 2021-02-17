@@ -9,19 +9,12 @@
 import Foundation
 import Combine
 
-protocol MainPageInteractorInput: MainPageUseCase {
-    func start()
-}
-
-class MainPageInteractor: MainPageInteractorInput {
-    
-    
+class MainPageInteractor: MainPageUseCase.Interactor {
+    var output: MainPageUseCase.Presenter?
     let apiWorker = MainPageAPIWorker()
     let mappingWorker = MainPageMappingWorker()
     
-    private var output: MainPagePresenterInput
-    
-    init(output: MainPagePresenterInput) {
+    init(output: MainPageUseCase.Presenter) {
         self.output = output
     }
     
@@ -45,7 +38,7 @@ class MainPageInteractor: MainPageInteractorInput {
             
             switch completion {
             case .failure(let error):
-                self?.output.showAlert(title: "error", message: error.localizedDescription)
+                self?.output?.showAlert(title: "error", message: error.localizedDescription)
             case .finished:
                 break
             }
@@ -57,7 +50,7 @@ class MainPageInteractor: MainPageInteractorInput {
                     break
                 }
             }, receiveValue: { (newsItems) in
-                self?.output.display(newsItems: newsItems)
+                self?.output?.display(newsItems: newsItems)
             })
         }
     }

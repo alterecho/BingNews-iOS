@@ -9,11 +9,6 @@
 import Foundation
 import Combine
 
-protocol MainPageAPIWorkerProtocol {
-    func fetchLatest(category: Category) -> Future<NYTResult, Error>
-    func search(string: String)
-}
-
 enum Error: Swift.Error {
     case invalidResponse(String?)
     case invalidURL(String)

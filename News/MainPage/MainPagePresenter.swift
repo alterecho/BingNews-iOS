@@ -8,18 +8,8 @@
 
 import Foundation
 
-protocol MainPagePresenterInput: class {
-    func showCategories()
-    func display(newsItems: [NewsItem])
-    func showAlert(title: String, message: String)
-    
-    init()
-}
-
-protocol MainPagePresenterOutput {
-}
-
-class MainPagePresenter: MainPagePresenterInput {
+class MainPagePresenter: MainPageUseCase.Presenter {
+    var output: MainPageUseCase.View?
     
     private(set) var vm: MainPageVM
     

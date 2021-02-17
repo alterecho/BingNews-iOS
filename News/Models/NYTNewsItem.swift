@@ -27,9 +27,6 @@ protocol NewsItemsConvertible {
 
 
 struct NYTResult: Decodable, NewsItemsConvertible {
-    func toNewsItems() -> [NewsItem] {
-        return results.map { $0.toNewsItem() }
-    }
     
     var status: String?
     var copyright: String?
@@ -37,6 +34,10 @@ struct NYTResult: Decodable, NewsItemsConvertible {
     var last_updated: String?
     var num_results: Int?
     var results: [Article]
+
+    func toNewsItems() -> [NewsItem] {
+        return results.map { $0.toNewsItem() }
+    }
     
     struct Article: Decodable, NewsItemConvertible {
         func toNewsItem() -> NewsItem {
@@ -73,5 +74,4 @@ struct NYTResult: Decodable, NewsItemsConvertible {
             var copyright: String?
         }
     }
-    
 }

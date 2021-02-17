@@ -18,12 +18,12 @@ struct NewsItemCell: View {
     }
 }
 
-struct MainPageContentView: View {
-            
-    let output: MainPageInteractorInput
+struct MainPageContentView: View, MainPageUseCase.View {
+    var output: MainPageUseCase.Interactor?
+    
     @ObservedObject private var vm: MainPageVM
         
-    init(vm: MainPageVM, output: MainPageInteractorInput) {
+    init(vm: MainPageVM, output: MainPageUseCase.Interactor) {
         self.vm = vm
         self.output = output
     }
@@ -32,30 +32,28 @@ struct MainPageContentView: View {
         return VStack {
             NavigationView {
                 List(vm.newsItems) { item in
-                    NavigationLink(destination: NewsDetailsContentView()) {
-                        NewsItemCell(newsItem: item)
-                        
+                    NewsItemCell(newsItem: item).onTapGesture {
+//                        output.
                     }
                 }
                 .navigationBarTitle("Main Page")
             }
             Button(action: {
-                self.vm.alertVM = AlertVM(title: "Debug \(arc4random() % 10)", message: "djsv \(arc4random() % 10)", primaryButtonTitle: "ok")
-//                self.output.displayLatest()
+                self.output?.displayLatest()
             }) {
                 HStack {
                     Image(systemName: "repeat")
                     Text("Refresh")
                 }
             }
-            .alert(isPresented: vm.binding(path: \MainPageVM.showAlert, default: false)) { () -> Alert in
+            .alert(isPresented: MainPageVM.createBinding(for: vm, path: \MainPageVM.showAlert, default: false)) { () -> Alert in
                 Alert(vm: vm.alertVM, primaryAction: {
                     self.vm.showAlert = false
                 })
             }
                 
             .onAppear {
-                self.output.start()
+                self.output?.start()
             }            
         }
         
