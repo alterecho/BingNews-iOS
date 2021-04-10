@@ -77,6 +77,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5530BF6C2621EF3A003E750B /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				F166C9CE2447109100C84C93 /* URLs.swift */,
+				F166C9D0244710BF00C84C93 /* APIs.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
 		B127D7EB25D766FD006EAA2D /* other-views */ = {
 			isa = PBXGroup;
 			children = (
@@ -129,8 +138,7 @@
 				F166C9B32446CFAB00C84C93 /* SceneDelegate.swift */,
 				F166C9B52446CFAB00C84C93 /* ContentView.swift */,
 				F166C9DB244743B700C84C93 /* Config.swift */,
-				F166C9CE2447109100C84C93 /* URLs.swift */,
-				F166C9D0244710BF00C84C93 /* APIs.swift */,
+				5530BF6C2621EF3A003E750B /* Service */,
 				F118744D2452F0A300AE2F1D /* Alert+Ext.swift */,
 				F194381D250E6C81004531C5 /* Models */,
 				F166C9C924470F4500C84C93 /* MainPage */,
