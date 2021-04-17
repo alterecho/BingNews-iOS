@@ -16,7 +16,7 @@ protocol URLsProtocol {
     static func getBaseURL() -> URL
     static func getBaseURLComponents() -> URLComponents
     
-    static var topStoriesURL: URL
+    static var topStoriesURL: URL { get }
 }
 
 extension URLsProtocol {

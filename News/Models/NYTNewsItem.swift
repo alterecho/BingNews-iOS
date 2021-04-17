@@ -14,7 +14,7 @@ struct NewsItem: Identifiable {
     var content: String
     var url: URL?
     var imageURL: URL?
-    var category: Category
+    var category: String
 }
 
 protocol NewsItemConvertible {
@@ -47,7 +47,7 @@ struct NYTResult: Decodable, NewsItemsConvertible {
                 content: "",
                 url: URL(string: url ?? ""),
                 imageURL: imageURL,
-                category: Category(rawValue: section ?? "" ) ?? .miscelleneous
+                category: "category"
             )
             return newsItem
         }

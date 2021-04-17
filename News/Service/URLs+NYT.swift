@@ -9,8 +9,7 @@
 import Foundation
 
 extension URLs {
-    enum NYT: URLsProtocol {
-        
+    enum NYT: URLsProtocol {                
         static var baseURLString: String = {
             guard let urlString = Bundle.main.infoDictionary?[Config.PListKey.baseURL.rawValue] as? String else {
                 fatalError("base url not found")

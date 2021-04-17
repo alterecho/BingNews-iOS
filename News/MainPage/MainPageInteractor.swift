@@ -33,7 +33,7 @@ class MainPageInteractor: MainPageUseCase.Interactor {
     private var cancellable: Cancellable?
     
     func displayLatest() {
-        cancellable = apiWorker.fetchLatest(category: .home).receive(on: DispatchQueue.main).sink(receiveCompletion: { [weak self] (completion) in
+        cancellable = apiWorker.fetchLatest(category: "home").receive(on: DispatchQueue.main).sink(receiveCompletion: { [weak self] (completion) in
             print(completion)
             
             switch completion {

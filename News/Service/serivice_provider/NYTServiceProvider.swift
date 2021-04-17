@@ -10,16 +10,24 @@ import Foundation
 import Combine
 
 class NYTServiceProvider: ServiceProviderProtocol {
+    
+    /// defined at https://developer.nytimes.com/docs/top-stories-product/1/routes/%7Bsection%7D.json/get
+    enum Sections: String, CaseIterable {
+        case arts, automobiles, books, business, fashion, food, health
+        case home, insider, magazine, movies, nyregion, obituaries, opinion
+        case politics, realestate, science, sports, sundayreview, technology
+        case theater, tmagazine, travel, upshot, us, world
+        case miscelleneous
+    }
+
 //    https://api.nytimes.com/svc/topstories/v2/{section}.json
-    func getCategories() -> Future<Category, Error> {
-        return Future<Category, Error> { (promise) in
-            guard let url = URLs.NYT.baseURLComponents.url else {
-                return
-            }
+    func getCategories() -> Future<[String], Error> {
+        return Future<[String], Error> { (promise) in
+            promise(.success(Sections.allCases.map { $0.rawValue }))
         }
     }
     
-    func getLatestNews(category: Category?) -> Future<[NewsItem], Error> {
+    func getLatestNews(category: String?) -> Future<[NewsItem], Error> {
         return Future<[NewsItem], Error> { (promise) in
             guard let url = URLs.NYT.baseURLComponents.url else {
                 return

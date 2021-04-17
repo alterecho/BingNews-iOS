@@ -43,7 +43,7 @@ protocol MainPageMappingWorkerProtocol {
 }
 
 protocol MainPageAPIWorkerProtocol {
-    func fetchLatest(category: Category) -> Future<NYTResult, Error>
+    func fetchLatest(category: String) -> Future<NYTResult, Error>
     func search(string: String)
 }
 

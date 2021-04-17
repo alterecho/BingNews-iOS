@@ -9,6 +9,6 @@
 import Combine
 
 protocol ServiceProviderProtocol {
-    func getCategories() -> Future<Category, Error>
-    func getLatestNews(category: Category?) -> Future<[NewsItem], Error>
+    func getCategories() -> Future<[String], Error>
+    func getLatestNews(category: String?) -> Future<[NewsItem], Error>
 }

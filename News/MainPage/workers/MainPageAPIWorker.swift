@@ -19,7 +19,7 @@ class MainPageAPIWorker: MainPageAPIWorkerProtocol {
     
     private var cancellable: Cancellable?
     
-    func fetchLatest(category: Category) -> Future<NYTResult, Error> {
+    func fetchLatest(category: String) -> Future<NYTResult, Error> {
         
         return Future<NYTResult, Error> { [weak self] promise in
             self?.cancellable?.cancel()
